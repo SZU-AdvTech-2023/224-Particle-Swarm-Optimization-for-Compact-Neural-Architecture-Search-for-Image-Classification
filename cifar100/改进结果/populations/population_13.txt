@@ -1,0 +1,473 @@
+indi:00
+particle_a:2,6,11,4,13,0,10,6,15,15,11,11,12,46,13
+particle_c:1,2,7,5,22,53,60,63,61,60,23,60,20,41,41
+particle_c (bin):1.10.111.0101.10110.110101.0111100.00111111.000111101.0000111100.00000010111.000000111100.0000000010100.00000000101001.000000000101001
+eval_acc:0.2628
+[conv0,in:3,out:3,input:conv_begin, ]
+[conv1,in:3,out:7,input:conv_begin, ]
+[conv2,in:13,out:12,input:conv_begin, conv0, conv1, ]
+[conv3,in:15,out:5,input:conv0, conv2, ]
+[conv4,in:22,out:14,input:conv_begin, conv1, conv2, ]
+[conv5,in:32,out:1,input:conv_begin, conv0, conv2, conv4, ]
+[conv6,in:27,out:11,input:conv0, conv1, conv2, conv3, ]
+[conv7,in:50,out:7,input:conv1, conv2, conv3, conv4, conv5, conv6, ]
+[conv8,in:39,out:16,input:conv2, conv3, conv4, conv5, conv7, ]
+[conv9,in:31,out:16,input:conv3, conv4, conv5, conv6, ]
+[conv10,in:40,out:12,input:conv5, conv7, conv8, conv9, ]
+[conv11,in:35,out:12,input:conv5, conv6, conv7, conv8, ]
+[conv12,in:23,out:13,input:conv7, conv9, ]
+[pool13,type:average,input:conv7, conv9, conv12, ]
+[conv14,in:64,out:14,input:conv8, conv10, pool13, ]
+[final channels:26, final concatenate layers: ,conv14, conv11, ]
+----------------------------------------------------------------------------------------------------
+indi:01
+particle_a:10,3,8,8,7,6,9,9,10,9,11,12,12,11,11,9,10,14,9,9,8,14,14,6,6
+particle_c:1,2,4,4,28,42,20,46,48,4,59,60,16,26,58,63,60,52,33,62,42,26,28,47,60
+particle_c (bin):1.10.100.0100.11100.101010.0010100.00101110.000110000.0000000100.00000111011.000000111100.0000000010000.00000000011010.000000000111010.0000000000111111.00000000000111100.000000000000110100.0000000000000100001.00000000000000111110.000000000000000101010.0000000000000000011010.00000000000000000011100.000000000000000000101111.0000000000000000000111100
+eval_acc:0.2602
+[conv0,in:11,out:11,input:conv_begin, ]
+[conv1,in:11,out:4,input:conv_begin, ]
+[conv2,in:11,out:9,input:conv_begin, ]
+[conv3,in:11,out:9,input:conv0, ]
+[conv4,in:26,out:8,input:conv_begin, conv0, conv1, ]
+[conv5,in:24,out:7,input:conv_begin, conv1, conv3, ]
+[conv6,in:13,out:10,input:conv1, conv3, ]
+[conv7,in:28,out:10,input:conv1, conv3, conv4, conv5, ]
+[conv8,in:18,out:11,input:conv2, conv3, ]
+[conv9,in:10,out:10,input:conv6, ]
+[conv10,in:46,out:12,input:conv4, conv5, conv6, conv8, conv9, ]
+[conv11,in:38,out:13,input:conv5, conv6, conv7, conv8, ]
+[conv12,in:10,out:13,input:conv7, ]
+[conv13,in:34,out:12,input:conv8, conv9, conv11, ]
+[conv14,in:46,out:12,input:conv8, conv9, conv10, conv12, ]
+[conv15,in:72,out:10,input:conv9, conv10, conv11, conv12, conv13, conv14, ]
+[conv16,in:50,out:11,input:conv10, conv11, conv12, conv13, ]
+[conv17,in:38,out:15,input:conv11, conv12, conv14, ]
+[conv18,in:28,out:10,input:conv12, conv17, ]
+[conv19,in:60,out:10,input:conv13, conv14, conv15, conv16, conv17, ]
+[conv20,in:33,out:9,input:conv14, conv16, conv18, ]
+[conv21,in:36,out:15,input:conv16, conv17, conv19, ]
+[conv22,in:35,out:15,input:conv17, conv18, conv19, ]
+[conv23,in:64,out:7,input:conv17, conv19, conv20, conv21, conv22, ]
+[conv24,in:44,out:7,input:conv18, conv19, conv20, conv21, ]
+[final channels:14, final concatenate layers: ,conv24, conv23, ]
+----------------------------------------------------------------------------------------------------
+indi:02
+particle_a:8,7,11,0,0,7,10,8,8,7,8,8,3,2,46,34,1
+particle_c:1,2,1,8,31,36,19,18,14,54,30,26,29,47,6,60,9
+particle_c (bin):1.10.001.1000.11111.100100.0010011.00010010.000001110.0000110110.00000011110.000000011010.0000000011101.00000000101111.000000000000110.0000000000111100.00000000000001001
+eval_acc:0.2310
+[conv0,in:9,out:9,input:conv_begin, ]
+[conv1,in:9,out:8,input:conv_begin, ]
+[conv2,in:8,out:12,input:conv1, ]
+[conv3,in:9,out:1,input:conv_begin, ]
+[conv4,in:39,out:1,input:conv_begin, conv0, conv1, conv2, conv3, ]
+[conv5,in:21,out:8,input:conv_begin, conv2, ]
+[conv6,in:17,out:11,input:conv1, conv4, conv5, ]
+[conv7,in:20,out:9,input:conv2, conv5, ]
+[conv8,in:20,out:9,input:conv4, conv5, conv6, ]
+[conv9,in:22,out:8,input:conv3, conv4, conv6, conv7, ]
+[conv10,in:37,out:9,input:conv5, conv6, conv7, conv8, ]
+[conv11,in:28,out:9,input:conv6, conv7, conv9, ]
+[conv12,in:35,out:4,input:conv7, conv8, conv9, conv11, ]
+[conv13,in:39,out:3,input:conv7, conv9, conv10, conv11, conv12, ]
+[pool14,type:average,input:conv11, conv12, ]
+[pool15,type:max,input:conv9, conv10, conv11, conv12, ]
+[conv16,in:34,out:2,input:conv12, pool15, ]
+[final channels:18, final concatenate layers: ,conv16, conv13, pool14, ]
+----------------------------------------------------------------------------------------------------
+indi:03
+particle_a:0,9,6,3,8,4,10,4,15,8,8,43,12,14,14,10,10,9,9,45
+particle_c:1,1,2,15,2,45,7,5,33,47,14,14,57,36,30,28,10,49,28,36
+particle_c (bin):1.01.010.1111.00010.101101.0000111.00000101.000100001.0000101111.00000001110.000000001110.0000000111001.00000000100100.000000000011110.0000000000011100.00000000000001010.000000000000110001.0000000000000011100.00000000000000100100
+eval_acc:0.1418
+[conv0,in:1,out:1,input:conv_begin, ]
+[conv1,in:1,out:10,input:conv0, ]
+[conv2,in:1,out:7,input:conv0, ]
+[conv3,in:19,out:4,input:conv_begin, conv0, conv1, conv2, ]
+[conv4,in:7,out:9,input:conv2, ]
+[conv5,in:27,out:5,input:conv_begin, conv1, conv2, conv4, ]
+[conv6,in:18,out:11,input:conv3, conv4, conv5, ]
+[conv7,in:20,out:5,input:conv4, conv6, ]
+[conv8,in:12,out:16,input:conv2, conv7, ]
+[conv9,in:41,out:9,input:conv3, conv5, conv6, conv7, conv8, ]
+[conv10,in:32,out:9,input:conv6, conv7, conv8, ]
+[pool11,type:average,input:conv7, conv8, conv9, ]
+[conv12,in:62,out:13,input:conv6, conv7, conv8, pool11, ]
+[conv13,in:14,out:15,input:conv7, conv10, ]
+[conv14,in:61,out:15,input:conv9, conv10, pool11, conv12, ]
+[conv15,in:52,out:11,input:conv10, pool11, conv12, ]
+[conv16,in:28,out:11,input:conv12, conv14, ]
+[conv17,in:54,out:10,input:pool11, conv12, conv16, ]
+[conv18,in:41,out:10,input:conv13, conv14, conv15, ]
+[pool19,type:average,input:conv13, conv16, ]
+[final channels:46, final concatenate layers: ,pool19, conv17, conv18, ]
+----------------------------------------------------------------------------------------------------
+indi:04
+particle_a:1,8,3,6,10,3,15,10,10,13,8,8,10,11,10,10,15,15,14,15,15,2,0
+particle_c:1,2,4,6,16,56,10,44,54,11,62,58,62,62,28,30,40,42,7,28,11,62,52
+particle_c (bin):1.10.100.0110.10000.111000.0001010.00101100.000110110.0000001011.00000111110.000000111010.0000000111110.00000000111110.000000000011100.0000000000011110.00000000000101000.000000000000101010.0000000000000000111.00000000000000011100.000000000000000001011.0000000000000000111110.00000000000000000110100
+eval_acc:0.2336
+[conv0,in:2,out:2,input:conv_begin, ]
+[conv1,in:2,out:9,input:conv_begin, ]
+[conv2,in:2,out:4,input:conv_begin, ]
+[conv3,in:11,out:7,input:conv0, conv1, ]
+[conv4,in:2,out:11,input:conv_begin, ]
+[conv5,in:13,out:4,input:conv_begin, conv0, conv1, ]
+[conv6,in:15,out:16,input:conv2, conv4, ]
+[conv7,in:27,out:11,input:conv1, conv3, conv4, ]
+[conv8,in:31,out:11,input:conv2, conv3, conv5, conv6, ]
+[conv9,in:26,out:14,input:conv5, conv7, conv8, ]
+[conv10,in:53,out:9,input:conv4, conv5, conv6, conv7, conv8, ]
+[conv11,in:45,out:9,input:conv5, conv6, conv7, conv9, ]
+[conv12,in:61,out:11,input:conv6, conv7, conv8, conv9, conv10, ]
+[conv13,in:54,out:12,input:conv7, conv8, conv9, conv10, conv11, ]
+[conv14,in:32,out:11,input:conv9, conv10, conv11, ]
+[conv15,in:41,out:11,input:conv10, conv11, conv12, conv13, ]
+[conv16,in:20,out:16,input:conv10, conv12, ]
+[conv17,in:32,out:16,input:conv11, conv13, conv15, ]
+[conv18,in:43,out:15,input:conv15, conv16, conv17, ]
+[conv19,in:38,out:16,input:conv14, conv15, conv16, ]
+[conv20,in:47,out:16,input:conv16, conv18, conv19, ]
+[conv21,in:74,out:3,input:conv15, conv16, conv17, conv18, conv19, ]
+[conv22,in:48,out:1,input:conv16, conv17, conv19, ]
+[final channels:20, final concatenate layers: ,conv22, conv20, conv21, ]
+----------------------------------------------------------------------------------------------------
+indi:05
+particle_a:1
+particle_c:1
+particle_c (bin):1
+eval_acc:0.0372
+[conv0,in:2,out:2,input:conv_begin, ]
+[final channels:2, final concatenate layers: ,conv0, ]
+----------------------------------------------------------------------------------------------------
+indi:06
+particle_a:15,8,12,11,8,11,11,15,15,1,3
+particle_c:1,1,7,13,4,6,50,22,33,28,18
+particle_c (bin):1.01.111.1101.00100.000110.0110010.00010110.000100001.0000011100.00000010010
+eval_acc:0.1600
+[conv0,in:16,out:16,input:conv_begin, ]
+[conv1,in:16,out:9,input:conv0, ]
+[conv2,in:41,out:13,input:conv_begin, conv0, conv1, ]
+[conv3,in:45,out:12,input:conv_begin, conv0, conv2, ]
+[conv4,in:9,out:9,input:conv1, ]
+[conv5,in:25,out:12,input:conv2, conv3, ]
+[conv6,in:34,out:12,input:conv0, conv1, conv4, ]
+[conv7,in:34,out:16,input:conv2, conv4, conv5, ]
+[conv8,in:29,out:16,input:conv2, conv7, ]
+[conv9,in:33,out:2,input:conv4, conv5, conv6, ]
+[conv10,in:28,out:4,input:conv5, conv8, ]
+[final channels:6, final concatenate layers: ,conv10, conv9, ]
+----------------------------------------------------------------------------------------------------
+indi:07
+particle_a:15,6,0,7,10,15,10,10,15,15,10,10,9,9,47,32
+particle_c:1,2,4,2,23,40,28,3,63,59,15,20,60,30,17,28
+particle_c (bin):1.10.100.0010.10111.101000.0011100.00000011.000111111.0000111011.00000001111.000000010100.0000000111100.00000000011110.000000000010001.0000000000011100
+eval_acc:0.3396
+[conv0,in:16,out:16,input:conv_begin, ]
+[conv1,in:16,out:7,input:conv_begin, ]
+[conv2,in:16,out:1,input:conv_begin, ]
+[conv3,in:7,out:8,input:conv1, ]
+[conv4,in:32,out:11,input:conv_begin, conv1, conv2, conv3, ]
+[conv5,in:23,out:16,input:conv_begin, conv1, ]
+[conv6,in:16,out:11,input:conv1, conv2, conv3, ]
+[conv7,in:27,out:11,input:conv5, conv6, ]
+[conv8,in:58,out:16,input:conv2, conv3, conv4, conv5, conv6, conv7, ]
+[conv9,in:62,out:16,input:conv3, conv4, conv5, conv7, conv8, ]
+[conv10,in:54,out:11,input:conv6, conv7, conv8, conv9, ]
+[conv11,in:27,out:11,input:conv6, conv8, ]
+[conv12,in:54,out:10,input:conv6, conv7, conv8, conv9, ]
+[conv13,in:54,out:10,input:conv8, conv9, conv10, conv11, ]
+[pool14,type:average,input:conv9, conv13, ]
+[pool15,type:max,input:conv10, conv11, conv12, ]
+[final channels:74, final concatenate layers: ,pool15, conv0, pool14, ]
+----------------------------------------------------------------------------------------------------
+indi:08
+particle_a:7,11,3,12,3,12,7,3,15,15,9,9,0,14,15,45,2
+particle_c:1,2,4,2,18,41,5,52,41,14,37,58,32,58,2,62,26
+particle_c (bin):1.10.100.0010.10010.101001.0000101.00110100.000101001.0000001110.00000100101.000000111010.0000000100000.00000000111010.000000000000010.0000000000111110.00000000000011010
+eval_acc:0.3070
+[conv0,in:8,out:8,input:conv_begin, ]
+[conv1,in:8,out:12,input:conv_begin, ]
+[conv2,in:8,out:4,input:conv_begin, ]
+[conv3,in:12,out:13,input:conv1, ]
+[conv4,in:12,out:4,input:conv_begin, conv2, ]
+[conv5,in:24,out:13,input:conv_begin, conv1, conv4, ]
+[conv6,in:26,out:8,input:conv3, conv5, ]
+[conv7,in:20,out:4,input:conv1, conv2, conv4, ]
+[conv8,in:12,out:16,input:conv2, conv4, conv7, ]
+[conv9,in:25,out:16,input:conv5, conv6, conv7, ]
+[conv10,in:24,out:10,input:conv4, conv7, conv9, ]
+[conv11,in:41,out:10,input:conv5, conv6, conv7, conv9, ]
+[conv12,in:8,out:1,input:conv6, ]
+[conv13,in:46,out:15,input:conv7, conv8, conv9, conv11, ]
+[conv14,in:1,out:16,input:conv12, ]
+[pool15,type:average,input:conv9, conv10, conv11, conv12, conv13, ]
+[conv16,in:27,out:3,input:conv11, conv12, conv14, ]
+[final channels:63, final concatenate layers: ,conv16, conv0, pool15, ]
+----------------------------------------------------------------------------------------------------
+indi:09
+particle_a:5,0,6,6,0,10,0,13,9,10,12,10,11,11,11,8,9,36,14,46
+particle_c:1,2,2,6,21,22,35,53,8,31,31,34,30,40,61,34,24,38,34,32
+particle_c (bin):1.10.010.0110.10101.010110.0100011.00110101.000001000.0000011111.00000011111.000000100010.0000000011110.00000000101000.000000000111101.0000000000100010.00000000000011000.000000000000100110.0000000000000100010.00000000000000100000
+eval_acc:0.3096
+[conv0,in:6,out:6,input:conv_begin, ]
+[conv1,in:6,out:1,input:conv_begin, ]
+[conv2,in:6,out:7,input:conv0, ]
+[conv3,in:7,out:7,input:conv0, conv1, ]
+[conv4,in:14,out:1,input:conv_begin, conv1, conv3, ]
+[conv5,in:20,out:11,input:conv0, conv2, conv3, ]
+[conv6,in:18,out:1,input:conv0, conv4, conv5, ]
+[conv7,in:10,out:14,input:conv1, conv2, conv4, conv6, ]
+[conv8,in:1,out:10,input:conv4, ]
+[conv9,in:37,out:11,input:conv4, conv5, conv6, conv7, conv8, ]
+[conv10,in:47,out:13,input:conv5, conv6, conv7, conv8, conv9, ]
+[conv11,in:22,out:11,input:conv5, conv9, ]
+[conv12,in:48,out:12,input:conv7, conv8, conv9, conv10, ]
+[conv13,in:25,out:12,input:conv7, conv9, ]
+[conv14,in:57,out:12,input:conv8, conv9, conv10, conv11, conv13, ]
+[conv15,in:23,out:9,input:conv9, conv13, ]
+[conv16,in:23,out:10,input:conv11, conv12, ]
+[pool17,type:max,input:conv11, conv14, conv15, ]
+[conv18,in:22,out:15,input:conv12, conv16, ]
+[pool19,type:average,input:conv13, ]
+[final channels:59, final concatenate layers: ,pool19, pool17, conv18, ]
+----------------------------------------------------------------------------------------------------
+indi:10
+particle_a:5,8,7,7,15,14,14,11,11,40,15,8,8,6
+particle_c:1,2,2,14,31,5,45,11,30,20,8,63,36,5
+particle_c (bin):1.10.010.1110.11111.000101.0101101.00001011.000011110.0000010100.00000001000.000000111111.0000000100100.00000000000101
+eval_acc:0.2580
+[conv0,in:6,out:6,input:conv_begin, ]
+[conv1,in:6,out:9,input:conv_begin, ]
+[conv2,in:6,out:8,input:conv0, ]
+[conv3,in:21,out:8,input:conv_begin, conv0, conv1, ]
+[conv4,in:37,out:16,input:conv_begin, conv0, conv1, conv2, conv3, ]
+[conv5,in:24,out:15,input:conv2, conv4, ]
+[conv6,in:37,out:15,input:conv0, conv2, conv3, conv5, ]
+[conv7,in:38,out:12,input:conv3, conv5, conv6, ]
+[conv8,in:54,out:12,input:conv3, conv4, conv5, conv6, ]
+[pool9,type:average,input:conv4, conv6, ]
+[conv10,in:15,out:16,input:conv6, ]
+[conv11,in:101,out:9,input:conv5, conv6, conv7, conv8, pool9, conv10, ]
+[conv12,in:46,out:9,input:conv6, pool9, ]
+[conv13,in:25,out:7,input:conv10, conv12, ]
+[final channels:16, final concatenate layers: ,conv13, conv11, ]
+----------------------------------------------------------------------------------------------------
+indi:11
+particle_a:7,0,7,5,13,12,11,8,8,8,10,9,9,9,10,46,5,44,1
+particle_c:1,2,4,8,9,21,25,38,44,31,55,60,50,39,62,52,46,56,46
+particle_c (bin):1.10.100.1000.01001.010101.0011001.00100110.000101100.0000011111.00000110111.000000111100.0000000110010.00000000100111.000000000111110.0000000000110100.00000000000101110.000000000000111000.0000000000000101110
+eval_acc:0.3024
+[conv0,in:8,out:8,input:conv_begin, ]
+[conv1,in:8,out:1,input:conv_begin, ]
+[conv2,in:8,out:8,input:conv_begin, ]
+[conv3,in:8,out:6,input:conv_begin, ]
+[conv4,in:14,out:14,input:conv0, conv3, ]
+[conv5,in:30,out:13,input:conv0, conv2, conv4, ]
+[conv6,in:22,out:12,input:conv1, conv2, conv5, ]
+[conv7,in:28,out:9,input:conv1, conv4, conv5, ]
+[conv8,in:35,out:9,input:conv2, conv4, conv5, ]
+[conv9,in:57,out:9,input:conv4, conv5, conv6, conv7, conv8, ]
+[conv10,in:54,out:11,input:conv4, conv5, conv7, conv8, conv9, ]
+[conv11,in:43,out:10,input:conv5, conv6, conv7, conv8, ]
+[conv12,in:32,out:10,input:conv6, conv7, conv10, ]
+[conv13,in:40,out:10,input:conv7, conv10, conv11, conv12, ]
+[conv14,in:49,out:11,input:conv8, conv9, conv10, conv11, conv12, ]
+[pool15,type:average,input:conv9, conv10, conv12, ]
+[conv16,in:42,out:6,input:conv10, conv12, conv13, conv14, ]
+[pool17,type:average,input:conv11, conv12, conv13, ]
+[conv18,in:57,out:2,input:conv12, conv14, pool15, conv16, ]
+[final channels:32, final concatenate layers: ,conv18, pool17, ]
+----------------------------------------------------------------------------------------------------
+indi:12
+particle_a:3,6,13,0,11,8,8,9,9,34,39,8,15,15
+particle_c:1,2,2,13,12,37,53,60,62,30,22,16,38,42
+particle_c (bin):1.10.010.1101.01100.100101.0110101.00111100.000111110.0000011110.00000010110.000000010000.0000000100110.00000000101010
+eval_acc:0.2946
+[conv0,in:4,out:4,input:conv_begin, ]
+[conv1,in:4,out:7,input:conv_begin, ]
+[conv2,in:4,out:14,input:conv0, ]
+[conv3,in:22,out:1,input:conv_begin, conv0, conv2, ]
+[conv4,in:11,out:12,input:conv0, conv1, ]
+[conv5,in:30,out:9,input:conv_begin, conv2, conv4, ]
+[conv6,in:21,out:9,input:conv0, conv1, conv3, conv5, ]
+[conv7,in:34,out:10,input:conv1, conv2, conv3, conv4, ]
+[conv8,in:45,out:10,input:conv2, conv3, conv4, conv5, conv6, ]
+[pool9,type:max,input:conv4, conv5, conv6, conv7, ]
+[pool10,type:max,input:conv5, conv7, conv8, ]
+[conv11,in:9,out:9,input:conv6, ]
+[conv12,in:78,out:16,input:conv6, pool9, pool10, ]
+[conv13,in:59,out:16,input:conv7, pool9, conv11, ]
+[final channels:32, final concatenate layers: ,conv13, conv12, ]
+----------------------------------------------------------------------------------------------------
+indi:13
+particle_a:5,1,6,12,6,9,9,12,10,11,9,14,39,41,13
+particle_c:1,2,6,9,12,47,47,54,4,58,44,19,28,43,9
+particle_c (bin):1.10.110.1001.01100.101111.0101111.00110110.000000100.0000111010.00000101100.000000010011.0000000011100.00000000101011.000000000001001
+eval_acc:0.2480
+[conv0,in:6,out:6,input:conv_begin, ]
+[conv1,in:6,out:2,input:conv_begin, ]
+[conv2,in:12,out:7,input:conv_begin, conv0, ]
+[conv3,in:13,out:13,input:conv_begin, conv2, ]
+[conv4,in:8,out:7,input:conv0, conv1, ]
+[conv5,in:35,out:10,input:conv_begin, conv1, conv2, conv3, conv4, ]
+[conv6,in:43,out:10,input:conv0, conv2, conv3, conv4, conv5, ]
+[conv7,in:26,out:13,input:conv1, conv2, conv4, conv5, ]
+[conv8,in:10,out:11,input:conv5, ]
+[conv9,in:43,out:12,input:conv3, conv4, conv5, conv7, ]
+[conv10,in:30,out:10,input:conv4, conv6, conv7, ]
+[conv11,in:32,out:15,input:conv6, conv9, conv10, ]
+[pool12,type:max,input:conv7, conv8, conv9, ]
+[pool13,type:average,input:conv7, conv9, conv11, pool12, ]
+[conv14,in:86,out:14,input:conv10, pool13, ]
+[final channels:14, final concatenate layers: ,conv14, ]
+----------------------------------------------------------------------------------------------------
+indi:14
+particle_a:8,12,14,13,9,12,9,8,15,15,11,12,13,7,12,10
+particle_c:1,1,2,8,6,5,16,53,31,49,22,58,38,33,50,30
+particle_c (bin):1.01.010.1000.00110.000101.0010000.00110101.000011111.0000110001.00000010110.000000111010.0000000100110.00000000100001.000000000110010.0000000000011110
+eval_acc:0.2558
+[conv0,in:9,out:9,input:conv_begin, ]
+[conv1,in:9,out:13,input:conv0, ]
+[conv2,in:9,out:15,input:conv0, ]
+[conv3,in:9,out:14,input:conv_begin, ]
+[conv4,in:28,out:10,input:conv1, conv2, ]
+[conv5,in:25,out:13,input:conv2, conv4, ]
+[conv6,in:13,out:10,input:conv1, ]
+[conv7,in:48,out:9,input:conv1, conv2, conv4, conv6, ]
+[conv8,in:56,out:16,input:conv3, conv4, conv5, conv6, conv7, ]
+[conv9,in:40,out:16,input:conv3, conv4, conv8, ]
+[conv10,in:38,out:12,input:conv5, conv7, conv8, ]
+[conv11,in:48,out:13,input:conv5, conv6, conv7, conv9, ]
+[conv12,in:38,out:14,input:conv6, conv9, conv10, ]
+[conv13,in:23,out:8,input:conv7, conv12, ]
+[conv14,in:46,out:13,input:conv8, conv9, conv12, ]
+[conv15,in:47,out:11,input:conv10, conv11, conv12, conv13, ]
+[final channels:24, final concatenate layers: ,conv15, conv14, ]
+----------------------------------------------------------------------------------------------------
+indi:15
+particle_a:7,7,0,3,1,0,11,9,9,5,9,10,14,15,44,36,10,10,8,9,2
+particle_c:1,2,3,11,5,29,63,26,32,24,14,60,28,31,45,38,22,43,17,22,32
+particle_c (bin):1.10.011.1011.00101.011101.0111111.00011010.000100000.0000011000.00000001110.000000111100.0000000011100.00000000011111.000000000101101.0000000000100110.00000000000010110.000000000000101011.0000000000000010001.00000000000000010110.000000000000000100000
+eval_acc:0.2896
+[conv0,in:8,out:8,input:conv_begin, ]
+[conv1,in:8,out:8,input:conv_begin, ]
+[conv2,in:16,out:1,input:conv0, conv1, ]
+[conv3,in:17,out:4,input:conv_begin, conv1, conv2, ]
+[conv4,in:12,out:2,input:conv1, conv3, ]
+[conv5,in:19,out:1,input:conv0, conv1, conv2, conv4, ]
+[conv6,in:24,out:12,input:conv0, conv1, conv2, conv3, conv4, conv5, ]
+[conv7,in:6,out:10,input:conv2, conv3, conv5, ]
+[conv8,in:1,out:10,input:conv2, ]
+[conv9,in:3,out:6,input:conv4, conv5, ]
+[conv10,in:32,out:10,input:conv6, conv7, conv8, ]
+[conv11,in:33,out:11,input:conv5, conv6, conv7, conv8, ]
+[conv12,in:26,out:15,input:conv7, conv8, conv9, ]
+[conv13,in:52,out:16,input:conv8, conv9, conv10, conv11, conv12, ]
+[pool14,type:average,input:conv8, conv10, conv11, conv13, ]
+[pool15,type:max,input:conv9, conv12, conv13, ]
+[conv16,in:74,out:11,input:conv11, conv13, pool14, ]
+[conv17,in:75,out:11,input:conv11, conv13, pool15, conv16, ]
+[conv18,in:27,out:9,input:conv13, conv17, ]
+[conv19,in:69,out:10,input:pool14, conv16, conv17, ]
+[conv20,in:47,out:3,input:pool14, ]
+[final channels:22, final concatenate layers: ,conv20, conv18, conv19, ]
+----------------------------------------------------------------------------------------------------
+indi:16
+particle_a:12,12,14,3,4,4,6,11,11,3,2,40,14,11,9,10,11,12,44,11,12,2
+particle_c:1,2,1,1,18,42,22,13,53,56,34,63,47,24,31,63,41,60,26,5,53,37
+particle_c (bin):1.10.001.0001.10010.101010.0010110.00001101.000110101.0000111000.00000100010.000000111111.0000000101111.00000000011000.000000000011111.0000000000111111.00000000000101001.000000000000111100.0000000000000011010.00000000000000000101.000000000000000110101.0000000000000000100101
+eval_acc:0.2240
+[conv0,in:13,out:13,input:conv_begin, ]
+[conv1,in:13,out:13,input:conv_begin, ]
+[conv2,in:13,out:15,input:conv1, ]
+[conv3,in:15,out:4,input:conv2, ]
+[conv4,in:28,out:5,input:conv_begin, conv2, ]
+[conv5,in:30,out:5,input:conv_begin, conv1, conv3, ]
+[conv6,in:22,out:7,input:conv1, conv3, conv4, ]
+[conv7,in:16,out:12,input:conv3, conv4, conv6, ]
+[conv8,in:36,out:12,input:conv2, conv3, conv5, conv7, ]
+[conv9,in:14,out:4,input:conv3, conv4, conv5, ]
+[conv10,in:17,out:3,input:conv4, conv8, ]
+[pool11,type:average,input:conv5, conv6, conv7, conv8, conv9, conv10, ]
+[conv12,in:69,out:15,input:conv6, conv8, conv9, conv10, pool11, ]
+[conv13,in:16,out:12,input:conv8, conv9, ]
+[conv14,in:77,out:10,input:conv9, conv10, pool11, conv12, conv13, ]
+[conv15,in:87,out:11,input:conv9, conv10, pool11, conv12, conv13, conv14, ]
+[conv16,in:29,out:12,input:conv10, conv12, conv15, ]
+[conv17,in:80,out:13,input:pool11, conv12, conv13, conv14, ]
+[pool18,type:average,input:conv13, conv14, conv16, ]
+[conv19,in:46,out:12,input:conv16, pool18, ]
+[conv20,in:46,out:13,input:conv14, conv15, conv17, conv19, ]
+[conv21,in:58,out:3,input:conv15, pool18, conv20, ]
+[final channels:16, final concatenate layers: ,conv21, conv0, ]
+----------------------------------------------------------------------------------------------------
+indi:17
+particle_a:5,6,12,7,8,9,3,0,5,5,1,42,12,12,32,15,0
+particle_c:1,2,1,8,1,49,30,5,5,58,13,24,55,48,11,26,56
+particle_c (bin):1.10.001.1000.00001.110001.0011110.00000101.000000101.0000111010.00000001101.000000011000.0000000110111.00000000110000.000000000001011.0000000000011010.00000000000111000
+eval_acc:0.2572
+[conv0,in:6,out:6,input:conv_begin, ]
+[conv1,in:6,out:7,input:conv_begin, ]
+[conv2,in:7,out:13,input:conv1, ]
+[conv3,in:6,out:8,input:conv_begin, ]
+[conv4,in:8,out:9,input:conv3, ]
+[conv5,in:21,out:10,input:conv_begin, conv0, conv4, ]
+[conv6,in:37,out:4,input:conv1, conv2, conv3, conv4, ]
+[conv7,in:13,out:1,input:conv4, conv6, ]
+[conv8,in:11,out:6,input:conv5, conv7, ]
+[conv9,in:28,out:6,input:conv3, conv4, conv5, conv7, ]
+[conv10,in:11,out:2,input:conv6, conv7, conv9, ]
+[pool11,type:average,input:conv6, conv7, ]
+[conv12,in:18,out:13,input:conv6, conv7, conv9, conv10, pool11, ]
+[conv13,in:7,out:13,input:conv7, conv8, ]
+[pool14,type:max,input:conv10, conv12, conv13, ]
+[conv15,in:20,out:16,input:conv10, pool11, conv13, ]
+[conv16,in:20,out:1,input:conv10, pool11, conv12, ]
+[final channels:45, final concatenate layers: ,conv16, pool14, conv15, ]
+----------------------------------------------------------------------------------------------------
+indi:18
+particle_a:10,10,14,6,5,4,15,8,9,8,9,10,46,34,12,10,10,10
+particle_c:1,2,1,13,5,29,24,50,46,26,35,39,34,37,61,10,8,50
+particle_c (bin):1.10.001.1101.00101.011101.0011000.00110010.000101110.0000011010.00000100011.000000100111.0000000100010.00000000100101.000000000111101.0000000000001010.00000000000001000.000000000000110010
+eval_acc:0.3294
+[conv0,in:11,out:11,input:conv_begin, ]
+[conv1,in:11,out:11,input:conv_begin, ]
+[conv2,in:11,out:15,input:conv1, ]
+[conv3,in:37,out:7,input:conv_begin, conv0, conv2, ]
+[conv4,in:18,out:6,input:conv1, conv3, ]
+[conv5,in:43,out:5,input:conv0, conv1, conv2, conv4, ]
+[conv6,in:26,out:16,input:conv1, conv2, ]
+[conv7,in:31,out:9,input:conv1, conv2, conv5, ]
+[conv8,in:42,out:10,input:conv2, conv4, conv5, conv6, ]
+[conv9,in:20,out:9,input:conv4, conv5, conv7, ]
+[conv10,in:25,out:10,input:conv4, conv8, conv9, ]
+[conv11,in:34,out:11,input:conv5, conv8, conv9, conv10, ]
+[pool12,type:average,input:conv6, conv10, ]
+[pool13,type:max,input:conv7, conv10, pool12, ]
+[conv14,in:85,out:13,input:conv8, conv9, conv10, conv11, pool13, ]
+[conv15,in:56,out:11,input:conv11, pool13, ]
+[conv16,in:26,out:11,input:pool12, ]
+[conv17,in:48,out:11,input:conv11, pool12, conv15, ]
+[final channels:35, final concatenate layers: ,conv17, conv14, conv16, ]
+----------------------------------------------------------------------------------------------------
+indi:19
+particle_a:0,1,0,13,11,8,5,7,9,9,44,34
+particle_c:1,2,1,2,6,6,21,36,26,46,62,27
+particle_c (bin):1.10.001.0010.00110.000110.0010101.00100100.000011010.0000101110.00000111110.000000011011
+eval_acc:0.1240
+[conv0,in:1,out:1,input:conv_begin, ]
+[conv1,in:1,out:2,input:conv_begin, ]
+[conv2,in:2,out:1,input:conv1, ]
+[conv3,in:2,out:14,input:conv1, ]
+[conv4,in:3,out:12,input:conv1, conv2, ]
+[conv5,in:15,out:9,input:conv2, conv3, ]
+[conv6,in:25,out:6,input:conv1, conv3, conv5, ]
+[conv7,in:14,out:8,input:conv1, conv4, ]
+[conv8,in:32,out:10,input:conv3, conv4, conv6, ]
+[conv9,in:37,out:10,input:conv3, conv5, conv6, conv7, ]
+[pool10,type:average,input:conv4, conv5, conv6, conv7, conv8, ]
+[pool11,type:max,input:conv6, conv7, conv9, pool10, ]
+[final channels:70, final concatenate layers: ,pool11, conv0, ]
+----------------------------------------------------------------------------------------------------

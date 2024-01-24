@@ -1,0 +1,27 @@
+[2023-11-30 10:06:14.808358]-Used GPU#0, worker name:Process-365[516]
+[2023-11-30 10:06:14.811496]-#parameters:40086
+[2023-11-30 10:07:04.332522]-Train-Epoch:   1,  Loss: 4.3842, Acc:0.0289
+[2023-11-30 10:07:07.534632]-Validate-Epoch:   1,  Validate-Loss:4.1881, Acc:0.0470
+[2023-11-30 10:07:55.411570]-Train-Epoch:   2,  Loss: 4.0919, Acc:0.0584
+[2023-11-30 10:07:58.603002]-Validate-Epoch:   2,  Validate-Loss:4.0029, Acc:0.0738
+[2023-11-30 10:08:46.968760]-Train-Epoch:   3,  Loss: 3.9233, Acc:0.0834
+[2023-11-30 10:08:50.464181]-Validate-Epoch:   3,  Validate-Loss:3.8497, Acc:0.0862
+[2023-11-30 10:09:38.582794]-Train-Epoch:   4,  Loss: 3.8102, Acc:0.1004
+[2023-11-30 10:09:42.188111]-Validate-Epoch:   4,  Validate-Loss:3.6895, Acc:0.1090
+[2023-11-30 10:10:30.661741]-Train-Epoch:   5,  Loss: 3.7224, Acc:0.1144
+[2023-11-30 10:10:34.402816]-Validate-Epoch:   5,  Validate-Loss:3.6229, Acc:0.1286
+[2023-11-30 10:11:23.012817]-Train-Epoch:   6,  Loss: 3.6451, Acc:0.1264
+[2023-11-30 10:11:26.573512]-Validate-Epoch:   6,  Validate-Loss:3.5498, Acc:0.1394
+[2023-11-30 10:12:14.402318]-Train-Epoch:   7,  Loss: 3.5745, Acc:0.1402
+[2023-11-30 10:12:18.018216]-Validate-Epoch:   7,  Validate-Loss:3.5225, Acc:0.1470
+[2023-11-30 10:13:05.976270]-Train-Epoch:   8,  Loss: 3.5253, Acc:0.1472
+[2023-11-30 10:13:09.670642]-Validate-Epoch:   8,  Validate-Loss:3.4139, Acc:0.1744
+[2023-11-30 10:13:58.590269]-Train-Epoch:   9,  Loss: 3.4757, Acc:0.1580
+[2023-11-30 10:14:02.079881]-Validate-Epoch:   9,  Validate-Loss:3.4407, Acc:0.1694
+[2023-11-30 10:14:49.942894]-Train-Epoch:  10,  Loss: 3.4287, Acc:0.1677
+[2023-11-30 10:14:53.515065]-Validate-Epoch:  10,  Validate-Loss:3.4533, Acc:0.1712
+[2023-11-30 10:15:41.566887]-Train-Epoch:  11,  Loss: 3.3895, Acc:0.1739
+[2023-11-30 10:15:45.066881]-Validate-Epoch:  11,  Validate-Loss:3.4901, Acc:0.1684
+[2023-11-30 10:16:32.848415]-Train-Epoch:  12,  Loss: 3.3492, Acc:0.1836
+[2023-11-30 10:16:36.325505]-Validate-Epoch:  12,  Validate-Loss:3.3041, Acc:0.2006
+[2023-11-30 10:16:36.326993]-Finished-Acc:0.2006

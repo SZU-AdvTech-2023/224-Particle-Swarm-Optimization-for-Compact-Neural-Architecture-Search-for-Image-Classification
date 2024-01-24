@@ -1,0 +1,24 @@
+indi:00
+particle_a:4,9,2,11,11,10,11,12,35,13,15,12,12,36,10,11,0
+particle_c:1,2,6,1,16,10,62,12,13,31,52,55,44,58,16,45,11
+particle_c (bin):1.10.110.0001.10000.001010.0111110.00001100.000001101.0000011111.00000110100.000000110111.0000000101100.00000000111010.000000000010000.0000000000101101.00000000000001011
+eval_acc:0.4046
+[conv0,in:5,out:5,input:conv_begin, ]
+[conv1,in:5,out:10,input:conv_begin, ]
+[conv2,in:10,out:3,input:conv_begin, conv0, ]
+[conv3,in:3,out:12,input:conv2, ]
+[conv4,in:5,out:12,input:conv_begin, ]
+[conv5,in:22,out:11,input:conv1, conv3, ]
+[conv6,in:42,out:12,input:conv0, conv1, conv2, conv3, conv4, ]
+[conv7,in:24,out:13,input:conv3, conv4, ]
+[pool8,type:max,input:conv4, conv5, conv7, ]
+[conv9,in:84,out:14,input:conv4, conv5, conv6, conv7, pool8, ]
+[conv10,in:36,out:16,input:conv4, conv5, conv7, ]
+[conv11,in:89,out:13,input:conv5, conv6, pool8, conv9, conv10, ]
+[conv12,in:62,out:13,input:conv6, pool8, conv9, ]
+[pool13,type:max,input:conv7, pool8, conv9, conv11, ]
+[conv14,in:14,out:11,input:conv9, ]
+[conv15,in:51,out:12,input:conv9, conv11, conv12, conv14, ]
+[conv16,in:36,out:1,input:conv12, conv14, conv15, ]
+[final channels:77, final concatenate layers: ,conv16, pool13, ]
+----------------------------------------------------------------------------------------------------

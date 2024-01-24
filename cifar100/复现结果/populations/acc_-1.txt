@@ -1,0 +1,3 @@
+particle-1_00=0.73280
+particle-1_01=0.77500
+particle-1_02=0.79920

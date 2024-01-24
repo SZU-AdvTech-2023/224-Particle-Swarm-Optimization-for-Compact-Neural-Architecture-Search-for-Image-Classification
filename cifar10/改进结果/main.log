@@ -1,0 +1,1156 @@
+2023-11-21 12:14:24,102 INFO    : Initialize...
+2023-11-21 12:14:24,105 INFO    : EVOLVE[0-gen]-Begin to evaluate the fitness
+2023-11-21 12:20:56,179 INFO    : Initialize...
+2023-11-21 12:20:56,183 INFO    : EVOLVE[0-gen]-Begin to evaluate the fitness
+2023-11-21 12:21:16,324 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 12:21:16,324 INFO    : Begin to train particle00_00
+2023-11-21 12:21:17,328 INFO    : Begin to train particle00_01
+2023-11-21 12:21:17,339 INFO    : Begin to train particle00_02
+2023-11-21 12:47:32,276 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 12:47:32,276 INFO    : Begin to train particle00_03
+2023-11-21 12:47:32,293 INFO    : Begin to train particle00_04
+2023-11-21 12:47:32,303 INFO    : Begin to train particle00_05
+2023-11-21 13:11:47,358 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 13:11:47,359 INFO    : Begin to train particle00_06
+2023-11-21 13:11:47,371 INFO    : Begin to train particle00_07
+2023-11-21 13:11:47,380 INFO    : Begin to train particle00_08
+2023-11-21 13:40:40,901 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 13:40:40,901 INFO    : Begin to train particle00_09
+2023-11-21 13:40:40,910 INFO    : Begin to train particle00_10
+2023-11-21 13:40:40,925 INFO    : Begin to train particle00_11
+2023-11-21 14:12:28,286 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 14:12:28,287 INFO    : Begin to train particle00_12
+2023-11-21 14:12:28,300 INFO    : Begin to train particle00_13
+2023-11-21 14:12:28,310 INFO    : Begin to train particle00_14
+2023-11-21 14:41:35,650 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 14:41:35,651 INFO    : Begin to train particle00_15
+2023-11-21 14:41:35,663 INFO    : Begin to train particle00_16
+2023-11-21 14:41:35,675 INFO    : Begin to train particle00_17
+2023-11-21 15:00:53,202 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 15:00:53,202 INFO    : Begin to train particle00_18
+2023-11-21 15:00:53,211 INFO    : Begin to train particle00_19
+2023-11-21 15:22:20,045 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 15:22:40,127 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 15:23:00,194 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 15:23:20,292 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 15:23:40,373 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 15:24:00,458 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 15:24:20,551 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 15:24:40,637 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 15:25:00,725 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 15:25:20,816 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 15:25:40,920 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 15:26:01,003 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 15:26:21,091 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 15:26:31,102 INFO    : EVOLVE[0-gen]-Finish the evaluation
+2023-11-21 15:26:31,102 INFO    : EVOLVE[0-gen]-Finish the updating
+2023-11-21 15:26:31,116 INFO    : EVOLVE[1-gen]-Begin pso evolution
+2023-11-21 15:26:31,133 INFO    : EVOLVE[1-gen]-Finish pso evolution
+2023-11-21 15:26:31,133 INFO    : EVOLVE[1-gen]-Begin to evaluate the fitness
+2023-11-21 15:26:51,262 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 15:26:51,262 INFO    : Begin to train particle01_00
+2023-11-21 15:26:51,275 INFO    : Begin to train particle01_01
+2023-11-21 15:26:51,297 INFO    : Begin to train particle01_02
+2023-11-21 16:12:12,959 INFO    : Initialize...
+2023-11-21 16:12:12,962 INFO    : EVOLVE[0-gen]-Begin to evaluate the fitness
+2023-11-21 16:12:33,110 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 16:12:33,110 INFO    : Begin to train particle00_00
+2023-11-21 16:12:33,999 INFO    : Begin to train particle00_01
+2023-11-21 16:12:34,010 INFO    : Begin to train particle00_02
+2023-11-21 16:12:54,108 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 16:12:54,108 INFO    : Begin to train particle00_03
+2023-11-21 16:12:54,123 INFO    : Begin to train particle00_04
+2023-11-21 16:12:54,133 INFO    : Begin to train particle00_05
+2023-11-21 16:13:14,237 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 16:13:14,237 INFO    : Begin to train particle00_06
+2023-11-21 16:13:14,255 INFO    : Begin to train particle00_07
+2023-11-21 16:13:14,265 INFO    : Begin to train particle00_08
+2023-11-21 16:13:34,356 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 16:13:34,357 INFO    : Begin to train particle00_09
+2023-11-21 16:13:34,369 INFO    : Begin to train particle00_10
+2023-11-21 16:13:34,383 INFO    : Begin to train particle00_11
+2023-11-21 16:13:54,480 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 16:13:54,481 INFO    : Begin to train particle00_12
+2023-11-21 16:13:54,496 INFO    : Begin to train particle00_13
+2023-11-21 16:13:54,505 INFO    : Begin to train particle00_14
+2023-11-21 16:17:14,931 INFO    : Initialize...
+2023-11-21 16:17:14,934 INFO    : EVOLVE[0-gen]-Begin to evaluate the fitness
+2023-11-21 16:17:35,060 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 16:17:35,060 INFO    : Begin to train particle00_00
+2023-11-21 16:17:35,827 INFO    : Begin to train particle00_01
+2023-11-21 16:17:35,842 INFO    : Begin to train particle00_02
+2023-11-21 16:17:55,938 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 16:17:55,938 INFO    : Begin to train particle00_03
+2023-11-21 16:17:55,945 INFO    : Begin to train particle00_04
+2023-11-21 16:17:55,952 INFO    : Begin to train particle00_05
+2023-11-21 16:25:29,831 INFO    : Initialize...
+2023-11-21 16:25:29,834 INFO    : EVOLVE[0-gen]-Begin to evaluate the fitness
+2023-11-21 16:25:49,974 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 16:25:49,975 INFO    : Begin to train particle00_00
+2023-11-21 16:25:50,662 INFO    : Begin to train particle00_01
+2023-11-21 16:25:50,674 INFO    : Begin to train particle00_02
+2023-11-21 16:27:18,911 INFO    : Initialize...
+2023-11-21 16:27:18,917 INFO    : EVOLVE[0-gen]-Begin to evaluate the fitness
+2023-11-21 16:27:39,086 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 16:27:39,086 INFO    : Begin to train particle00_00
+2023-11-21 16:27:39,848 INFO    : Begin to train particle00_01
+2023-11-21 16:27:39,857 INFO    : Begin to train particle00_02
+2023-11-21 16:30:20,022 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 16:30:20,022 INFO    : Begin to train particle00_03
+2023-11-21 16:30:20,037 INFO    : Begin to train particle00_04
+2023-11-21 16:30:20,047 INFO    : Begin to train particle00_05
+2023-11-21 16:33:03,574 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 16:33:03,575 INFO    : Begin to train particle00_06
+2023-11-21 16:33:03,588 INFO    : Begin to train particle00_07
+2023-11-21 16:33:03,598 INFO    : Begin to train particle00_08
+2023-11-21 16:35:40,403 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 16:35:40,404 INFO    : Begin to train particle00_09
+2023-11-21 16:35:40,417 INFO    : Begin to train particle00_10
+2023-11-21 16:35:40,427 INFO    : Begin to train particle00_11
+2023-11-21 16:38:21,891 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 16:38:21,892 INFO    : Begin to train particle00_12
+2023-11-21 16:38:21,905 INFO    : Begin to train particle00_13
+2023-11-21 16:38:21,914 INFO    : Begin to train particle00_14
+2023-11-21 16:41:09,656 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 16:41:09,656 INFO    : Begin to train particle00_15
+2023-11-21 16:41:09,663 INFO    : Begin to train particle00_16
+2023-11-21 16:41:09,673 INFO    : Begin to train particle00_17
+2023-11-21 16:43:45,642 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 16:43:45,642 INFO    : Begin to train particle00_18
+2023-11-21 16:43:45,653 INFO    : Begin to train particle00_19
+2023-11-21 16:45:34,392 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 16:45:54,492 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 16:46:14,577 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 16:46:34,656 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 16:46:54,757 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 16:47:14,840 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 16:47:34,932 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 16:47:55,014 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 16:48:15,103 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 16:48:35,226 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 16:48:55,319 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 16:49:15,405 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 16:49:35,525 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 16:49:45,537 INFO    : EVOLVE[0-gen]-Finish the evaluation
+2023-11-21 16:49:45,538 INFO    : EVOLVE[0-gen]-Finish the updating
+2023-11-21 16:49:45,555 INFO    : EVOLVE[1-gen]-Begin pso evolution
+2023-11-21 16:49:45,571 INFO    : EVOLVE[1-gen]-Finish pso evolution
+2023-11-21 16:49:45,571 INFO    : EVOLVE[1-gen]-Begin to evaluate the fitness
+2023-11-21 16:50:05,725 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 16:50:05,725 INFO    : Begin to train particle01_00
+2023-11-21 16:50:05,740 INFO    : Begin to train particle01_01
+2023-11-21 16:50:05,749 INFO    : Begin to train particle01_02
+2023-11-21 16:52:53,691 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 16:52:53,691 INFO    : Begin to train particle01_03
+2023-11-21 16:52:53,706 INFO    : Begin to train particle01_04
+2023-11-21 16:52:53,717 INFO    : Begin to train particle01_05
+2023-11-21 16:55:43,184 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 16:55:43,185 INFO    : Begin to train particle01_06
+2023-11-21 16:55:43,198 INFO    : Begin to train particle01_07
+2023-11-21 16:55:43,207 INFO    : Begin to train particle01_08
+2023-11-21 16:58:20,575 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 16:58:20,576 INFO    : Begin to train particle01_09
+2023-11-21 16:58:20,590 INFO    : Begin to train particle01_10
+2023-11-21 16:58:20,599 INFO    : Begin to train particle01_11
+2023-11-21 17:01:06,291 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:01:06,292 INFO    : Begin to train particle01_12
+2023-11-21 17:01:06,305 INFO    : Begin to train particle01_13
+2023-11-21 17:01:06,314 INFO    : Begin to train particle01_14
+2023-11-21 17:03:57,697 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:03:57,698 INFO    : Begin to train particle01_15
+2023-11-21 17:03:57,712 INFO    : Begin to train particle01_16
+2023-11-21 17:03:57,720 INFO    : Begin to train particle01_17
+2023-11-21 17:06:37,774 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:06:37,774 INFO    : Begin to train particle01_18
+2023-11-21 17:06:37,783 INFO    : Begin to train particle01_19
+2023-11-21 17:08:27,615 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:08:47,697 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:09:07,779 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:09:27,863 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:09:47,946 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:10:08,033 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:10:28,125 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:10:48,213 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:11:08,299 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:11:28,385 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:11:48,473 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:12:08,563 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:12:28,649 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:12:38,660 INFO    : EVOLVE[1-gen]-Finish the evaluation
+2023-11-21 17:12:38,660 INFO    : EVOLVE[1-gen]-Finish the updating
+2023-11-21 17:12:38,688 INFO    : EVOLVE[2-gen]-Begin pso evolution
+2023-11-21 17:12:38,729 INFO    : EVOLVE[2-gen]-Finish pso evolution
+2023-11-21 17:12:38,729 INFO    : EVOLVE[2-gen]-Begin to evaluate the fitness
+2023-11-21 17:12:58,908 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:12:58,908 INFO    : Begin to train particle02_00
+2023-11-21 17:12:58,921 INFO    : Begin to train particle02_01
+2023-11-21 17:12:58,937 INFO    : Begin to train particle02_02
+2023-11-21 17:15:46,315 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:15:46,316 INFO    : Begin to train particle02_03
+2023-11-21 17:15:46,329 INFO    : Begin to train particle02_04
+2023-11-21 17:15:46,338 INFO    : Begin to train particle02_05
+2023-11-21 17:18:37,071 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:18:37,071 INFO    : Begin to train particle02_06
+2023-11-21 17:18:37,083 INFO    : Begin to train particle02_07
+2023-11-21 17:18:37,094 INFO    : Begin to train particle02_08
+2023-11-21 17:21:14,167 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:21:14,168 INFO    : Begin to train particle02_09
+2023-11-21 17:21:14,182 INFO    : Begin to train particle02_10
+2023-11-21 17:21:14,191 INFO    : Begin to train particle02_11
+2023-11-21 17:24:00,482 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:24:00,482 INFO    : Begin to train particle02_12
+2023-11-21 17:24:00,496 INFO    : Begin to train particle02_13
+2023-11-21 17:24:00,510 INFO    : Begin to train particle02_14
+2023-11-21 17:26:57,540 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:26:57,541 INFO    : Begin to train particle02_15
+2023-11-21 17:26:57,556 INFO    : Begin to train particle02_16
+2023-11-21 17:26:57,564 INFO    : Begin to train particle02_17
+2023-11-21 17:29:36,037 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:29:36,038 INFO    : Begin to train particle02_18
+2023-11-21 17:29:36,051 INFO    : Begin to train particle02_19
+2023-11-21 17:31:28,217 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:31:48,309 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:32:08,392 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:32:28,480 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:32:48,578 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:33:08,662 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:33:28,749 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:33:48,828 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:34:08,924 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:34:29,004 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:34:49,092 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:35:09,179 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:35:29,272 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:35:39,283 INFO    : EVOLVE[2-gen]-Finish the evaluation
+2023-11-21 17:35:39,283 INFO    : EVOLVE[2-gen]-Finish the updating
+2023-11-21 17:35:39,311 INFO    : EVOLVE[3-gen]-Begin pso evolution
+2023-11-21 17:35:39,355 INFO    : EVOLVE[3-gen]-Finish pso evolution
+2023-11-21 17:35:39,355 INFO    : EVOLVE[3-gen]-Begin to evaluate the fitness
+2023-11-21 17:35:59,538 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 17:35:59,538 INFO    : Begin to train particle03_00
+2023-11-21 17:35:59,553 INFO    : Begin to train particle03_01
+2023-11-21 17:35:59,566 INFO    : Begin to train particle03_02
+2023-11-21 18:01:07,659 INFO    : Initialize...
+2023-11-21 18:01:07,665 INFO    : EVOLVE[0-gen]-Begin to evaluate the fitness
+2023-11-21 18:01:27,829 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 18:01:27,829 INFO    : Begin to train particle00_00
+2023-11-21 18:01:28,554 INFO    : Begin to train particle00_01
+2023-11-21 18:01:28,562 INFO    : Begin to train particle00_02
+2023-11-21 18:24:38,218 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 18:24:38,218 INFO    : Begin to train particle00_03
+2023-11-21 18:24:38,229 INFO    : Begin to train particle00_04
+2023-11-21 18:24:38,241 INFO    : Begin to train particle00_05
+2023-11-21 18:38:20,578 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 18:38:20,579 INFO    : Begin to train particle00_06
+2023-11-21 18:38:20,593 INFO    : Begin to train particle00_07
+2023-11-21 18:38:20,603 INFO    : Begin to train particle00_08
+2023-11-21 18:52:05,185 INFO    : Initialize...
+2023-11-21 18:52:05,188 INFO    : EVOLVE[0-gen]-Begin to evaluate the fitness
+2023-11-21 18:52:25,316 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 18:52:25,317 INFO    : Begin to train particle00_00
+2023-11-21 18:52:26,137 INFO    : Begin to train particle00_01
+2023-11-21 18:52:26,147 INFO    : Begin to train particle00_02
+2023-11-21 19:11:20,980 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 19:11:20,980 INFO    : Begin to train particle00_03
+2023-11-21 19:11:20,991 INFO    : Begin to train particle00_04
+2023-11-21 19:11:21,006 INFO    : Begin to train particle00_05
+2023-11-21 19:41:18,195 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 19:41:18,196 INFO    : Begin to train particle00_06
+2023-11-21 19:41:18,211 INFO    : Begin to train particle00_07
+2023-11-21 19:41:18,220 INFO    : Begin to train particle00_08
+2023-11-21 19:58:13,966 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 19:58:13,966 INFO    : Begin to train particle00_09
+2023-11-21 19:58:13,979 INFO    : Begin to train particle00_10
+2023-11-21 19:58:13,994 INFO    : Begin to train particle00_11
+2023-11-21 20:23:38,945 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 20:23:38,946 INFO    : Begin to train particle00_12
+2023-11-21 20:23:38,954 INFO    : Begin to train particle00_13
+2023-11-21 20:23:38,964 INFO    : Begin to train particle00_14
+2023-11-21 20:50:51,231 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 20:50:51,232 INFO    : Begin to train particle00_15
+2023-11-21 20:50:51,244 INFO    : Begin to train particle00_16
+2023-11-21 20:50:51,255 INFO    : Begin to train particle00_17
+2023-11-21 21:22:22,423 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 21:22:22,423 INFO    : Begin to train particle00_18
+2023-11-21 21:22:22,435 INFO    : Begin to train particle00_19
+2023-11-21 21:34:46,123 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 21:35:06,214 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 21:35:26,303 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 21:35:46,391 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 21:36:06,487 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 21:36:26,573 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 21:36:46,682 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 21:37:06,768 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 21:37:26,856 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 21:37:47,003 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 21:38:07,105 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 21:38:27,191 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 21:38:47,279 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 21:38:57,288 INFO    : EVOLVE[0-gen]-Finish the evaluation
+2023-11-21 21:38:57,289 INFO    : EVOLVE[0-gen]-Finish the updating
+2023-11-21 21:38:57,311 INFO    : EVOLVE[1-gen]-Begin pso evolution
+2023-11-21 21:38:57,344 INFO    : EVOLVE[1-gen]-Finish pso evolution
+2023-11-21 21:38:57,344 INFO    : EVOLVE[1-gen]-Begin to evaluate the fitness
+2023-11-21 21:39:17,515 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 21:39:17,515 INFO    : Begin to train particle01_00
+2023-11-21 21:39:17,530 INFO    : Begin to train particle01_01
+2023-11-21 21:39:17,538 INFO    : Begin to train particle01_02
+2023-11-21 22:02:40,572 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 22:02:40,573 INFO    : Begin to train particle01_03
+2023-11-21 22:02:40,587 INFO    : Begin to train particle01_04
+2023-11-21 22:02:40,598 INFO    : Begin to train particle01_05
+2023-11-21 22:31:24,041 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 22:31:24,041 INFO    : Begin to train particle01_06
+2023-11-21 22:31:24,052 INFO    : Begin to train particle01_07
+2023-11-21 22:31:24,067 INFO    : Begin to train particle01_08
+2023-11-21 22:51:38,583 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 22:51:38,583 INFO    : Begin to train particle01_09
+2023-11-21 22:51:38,598 INFO    : Begin to train particle01_10
+2023-11-21 22:51:38,606 INFO    : Begin to train particle01_11
+2023-11-21 23:22:36,428 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 23:22:36,428 INFO    : Begin to train particle01_12
+2023-11-21 23:22:36,442 INFO    : Begin to train particle01_13
+2023-11-21 23:22:36,453 INFO    : Begin to train particle01_14
+2023-11-21 23:47:03,804 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-21 23:47:03,805 INFO    : Begin to train particle01_15
+2023-11-21 23:47:03,816 INFO    : Begin to train particle01_16
+2023-11-21 23:47:03,825 INFO    : Begin to train particle01_17
+2023-11-22 00:18:03,973 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 00:18:03,973 INFO    : Begin to train particle01_18
+2023-11-22 00:18:03,987 INFO    : Begin to train particle01_19
+2023-11-22 00:37:29,515 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 00:37:49,638 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 00:38:09,730 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 00:38:29,814 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 00:38:49,906 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 00:39:10,011 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 00:39:30,134 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 00:39:50,217 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 00:40:10,306 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 00:40:30,392 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 00:40:50,484 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 00:41:10,593 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 00:41:30,685 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 00:41:40,696 INFO    : EVOLVE[1-gen]-Finish the evaluation
+2023-11-22 00:41:40,698 INFO    : EVOLVE[1-gen]-Finish the updating
+2023-11-22 00:41:40,716 INFO    : EVOLVE[2-gen]-Begin pso evolution
+2023-11-22 00:41:40,739 INFO    : EVOLVE[2-gen]-Finish pso evolution
+2023-11-22 00:41:40,739 INFO    : EVOLVE[2-gen]-Begin to evaluate the fitness
+2023-11-22 00:42:00,873 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 00:42:00,873 INFO    : Begin to train particle02_00
+2023-11-22 00:42:00,888 INFO    : Begin to train particle02_01
+2023-11-22 00:42:00,898 INFO    : Begin to train particle02_02
+2023-11-22 01:07:56,408 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 01:07:56,409 INFO    : Begin to train particle02_03
+2023-11-22 01:07:56,424 INFO    : Begin to train particle02_04
+2023-11-22 01:07:56,434 INFO    : Begin to train particle02_05
+2023-11-22 01:39:55,718 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 01:39:55,719 INFO    : Begin to train particle02_06
+2023-11-22 01:39:55,730 INFO    : Begin to train particle02_07
+2023-11-22 01:39:55,741 INFO    : Begin to train particle02_08
+2023-11-22 02:12:41,950 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 02:12:41,951 INFO    : Begin to train particle02_09
+2023-11-22 02:12:41,962 INFO    : Begin to train particle02_10
+2023-11-22 02:12:41,971 INFO    : Begin to train particle02_11
+2023-11-22 02:44:00,158 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 02:44:00,159 INFO    : Begin to train particle02_12
+2023-11-22 02:44:00,173 INFO    : Begin to train particle02_13
+2023-11-22 02:44:00,183 INFO    : Begin to train particle02_14
+2023-11-22 03:15:37,769 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 03:15:37,769 INFO    : Begin to train particle02_15
+2023-11-22 03:15:37,784 INFO    : Begin to train particle02_16
+2023-11-22 03:15:37,795 INFO    : Begin to train particle02_17
+2023-11-22 03:43:01,338 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 03:43:01,339 INFO    : Begin to train particle02_18
+2023-11-22 03:43:01,353 INFO    : Begin to train particle02_19
+2023-11-22 04:03:50,126 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 04:04:10,211 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 04:04:30,293 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 04:04:50,383 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 04:05:10,483 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 04:05:30,570 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 04:05:50,660 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 04:06:10,752 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 04:06:30,836 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 04:06:50,923 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 04:07:11,019 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 04:07:31,138 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 04:07:51,270 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 04:08:01,280 INFO    : EVOLVE[2-gen]-Finish the evaluation
+2023-11-22 04:08:01,281 INFO    : EVOLVE[2-gen]-Finish the updating
+2023-11-22 04:08:01,307 INFO    : EVOLVE[3-gen]-Begin pso evolution
+2023-11-22 04:08:01,341 INFO    : EVOLVE[3-gen]-Finish pso evolution
+2023-11-22 04:08:01,341 INFO    : EVOLVE[3-gen]-Begin to evaluate the fitness
+2023-11-22 04:08:21,502 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 04:08:21,502 INFO    : Begin to train particle03_00
+2023-11-22 04:08:21,519 INFO    : Begin to train particle03_01
+2023-11-22 04:08:21,530 INFO    : Begin to train particle03_02
+2023-11-22 04:26:51,745 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 04:26:51,746 INFO    : Begin to train particle03_03
+2023-11-22 04:26:51,761 INFO    : Begin to train particle03_04
+2023-11-22 04:26:51,774 INFO    : Begin to train particle03_05
+2023-11-22 04:50:50,154 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 04:50:50,154 INFO    : Begin to train particle03_06
+2023-11-22 04:50:50,170 INFO    : Begin to train particle03_07
+2023-11-22 04:50:50,180 INFO    : Begin to train particle03_08
+2023-11-22 05:20:58,244 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 05:20:58,244 INFO    : Begin to train particle03_09
+2023-11-22 05:20:58,255 INFO    : Begin to train particle03_10
+2023-11-22 05:20:58,267 INFO    : Begin to train particle03_11
+2023-11-22 05:46:03,615 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 05:46:03,616 INFO    : Begin to train particle03_12
+2023-11-22 05:46:03,630 INFO    : Begin to train particle03_13
+2023-11-22 05:46:03,643 INFO    : Begin to train particle03_14
+2023-11-22 06:12:22,354 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 06:12:22,355 INFO    : Begin to train particle03_15
+2023-11-22 06:12:22,368 INFO    : Begin to train particle03_16
+2023-11-22 06:12:22,383 INFO    : Begin to train particle03_17
+2023-11-22 06:44:15,076 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 06:44:15,077 INFO    : Begin to train particle03_18
+2023-11-22 06:44:15,094 INFO    : Begin to train particle03_19
+2023-11-22 07:04:10,545 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 07:04:30,632 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 07:04:50,719 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 07:05:10,806 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 07:05:30,905 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 07:05:51,024 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 07:06:11,112 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 07:06:31,197 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 07:06:51,285 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 07:07:11,393 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 07:07:31,485 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 07:07:51,575 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 07:08:11,663 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 07:08:21,674 INFO    : EVOLVE[3-gen]-Finish the evaluation
+2023-11-22 07:08:21,675 INFO    : EVOLVE[3-gen]-Finish the updating
+2023-11-22 07:08:21,702 INFO    : EVOLVE[4-gen]-Begin pso evolution
+2023-11-22 07:08:21,742 INFO    : EVOLVE[4-gen]-Finish pso evolution
+2023-11-22 07:08:21,742 INFO    : EVOLVE[4-gen]-Begin to evaluate the fitness
+2023-11-22 07:08:41,939 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 07:08:41,939 INFO    : Begin to train particle04_00
+2023-11-22 07:08:41,951 INFO    : Begin to train particle04_01
+2023-11-22 07:08:41,961 INFO    : Begin to train particle04_02
+2023-11-22 07:37:25,906 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 07:37:25,907 INFO    : Begin to train particle04_03
+2023-11-22 07:37:25,921 INFO    : Begin to train particle04_04
+2023-11-22 07:37:25,933 INFO    : Begin to train particle04_05
+2023-11-22 08:09:57,351 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 08:09:57,351 INFO    : Begin to train particle04_06
+2023-11-22 08:09:57,363 INFO    : Begin to train particle04_07
+2023-11-22 08:09:57,378 INFO    : Begin to train particle04_08
+2023-11-22 08:40:26,357 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 08:40:26,358 INFO    : Begin to train particle04_09
+2023-11-22 08:40:26,373 INFO    : Begin to train particle04_10
+2023-11-22 08:40:26,384 INFO    : Begin to train particle04_11
+2023-11-22 09:11:10,030 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 09:11:10,031 INFO    : Begin to train particle04_12
+2023-11-22 09:11:10,046 INFO    : Begin to train particle04_13
+2023-11-22 09:11:10,057 INFO    : Begin to train particle04_14
+2023-11-22 09:37:49,506 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 09:37:49,506 INFO    : Begin to train particle04_15
+2023-11-22 09:37:49,517 INFO    : Begin to train particle04_16
+2023-11-22 09:37:49,528 INFO    : Begin to train particle04_17
+2023-11-22 10:10:24,465 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 10:10:24,465 INFO    : Begin to train particle04_18
+2023-11-22 10:10:24,481 INFO    : Begin to train particle04_19
+2023-11-22 10:28:26,434 INFO    : GPU_QUERY-Available GPUs are: [1,3], choose GPU#1 to use
+2023-11-22 10:28:46,526 INFO    : GPU_QUERY-Available GPUs are: [1,3], choose GPU#1 to use
+2023-11-22 10:29:06,619 INFO    : GPU_QUERY-Available GPUs are: [1,3], choose GPU#1 to use
+2023-11-22 10:29:26,706 INFO    : GPU_QUERY-Available GPUs are: [1,3], choose GPU#1 to use
+2023-11-22 10:29:46,835 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 10:30:06,920 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 10:30:27,003 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 10:30:47,082 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 10:31:07,179 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 10:31:27,307 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 10:31:47,391 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 10:32:07,524 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 10:32:27,614 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 10:32:37,624 INFO    : EVOLVE[4-gen]-Finish the evaluation
+2023-11-22 10:32:37,626 INFO    : EVOLVE[4-gen]-Finish the updating
+2023-11-22 10:32:37,650 INFO    : EVOLVE[5-gen]-Begin pso evolution
+2023-11-22 10:32:37,694 INFO    : EVOLVE[5-gen]-Finish pso evolution
+2023-11-22 10:32:37,694 INFO    : EVOLVE[5-gen]-Begin to evaluate the fitness
+2023-11-22 10:32:57,887 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 10:32:57,887 INFO    : Begin to train particle05_00
+2023-11-22 10:32:57,907 INFO    : Begin to train particle05_01
+2023-11-22 10:32:57,923 INFO    : Begin to train particle05_02
+2023-11-22 10:58:51,282 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 10:58:51,282 INFO    : Begin to train particle05_03
+2023-11-22 10:58:51,296 INFO    : Begin to train particle05_04
+2023-11-22 10:58:51,312 INFO    : Begin to train particle05_05
+2023-11-22 11:23:14,862 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 11:23:14,863 INFO    : Begin to train particle05_06
+2023-11-22 11:23:14,876 INFO    : Begin to train particle05_07
+2023-11-22 11:23:14,886 INFO    : Begin to train particle05_08
+2023-11-22 11:55:19,080 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 11:55:19,081 INFO    : Begin to train particle05_09
+2023-11-22 11:55:19,096 INFO    : Begin to train particle05_10
+2023-11-22 11:55:19,106 INFO    : Begin to train particle05_11
+2023-11-22 12:24:15,650 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 12:24:15,650 INFO    : Begin to train particle05_12
+2023-11-22 12:24:15,667 INFO    : Begin to train particle05_13
+2023-11-22 12:24:15,678 INFO    : Begin to train particle05_14
+2023-11-22 12:58:15,811 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 12:58:15,812 INFO    : Begin to train particle05_15
+2023-11-22 12:58:15,825 INFO    : Begin to train particle05_16
+2023-11-22 12:58:15,838 INFO    : Begin to train particle05_17
+2023-11-22 13:30:07,786 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 13:30:07,787 INFO    : Begin to train particle05_18
+2023-11-22 13:30:07,802 INFO    : Begin to train particle05_19
+2023-11-22 13:53:43,271 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 13:54:03,357 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 13:54:23,443 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 13:54:43,530 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 13:55:03,611 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 13:55:23,697 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 13:55:43,781 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 13:56:03,864 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 13:56:23,957 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 13:56:44,049 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 13:57:04,139 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 13:57:24,247 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 13:57:44,336 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 13:57:54,347 INFO    : EVOLVE[5-gen]-Finish the evaluation
+2023-11-22 13:57:54,348 INFO    : EVOLVE[5-gen]-Finish the updating
+2023-11-22 13:57:54,376 INFO    : EVOLVE[6-gen]-Begin pso evolution
+2023-11-22 13:57:54,412 INFO    : EVOLVE[6-gen]-Finish pso evolution
+2023-11-22 13:57:54,412 INFO    : EVOLVE[6-gen]-Begin to evaluate the fitness
+2023-11-22 13:58:14,603 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 13:58:14,604 INFO    : Begin to train particle06_00
+2023-11-22 13:58:14,620 INFO    : Begin to train particle06_01
+2023-11-22 13:58:14,639 INFO    : Begin to train particle06_02
+2023-11-22 14:22:20,025 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 14:22:20,025 INFO    : Begin to train particle06_03
+2023-11-22 14:22:20,043 INFO    : Begin to train particle06_04
+2023-11-22 14:22:20,105 INFO    : Begin to train particle06_05
+2023-11-22 14:45:34,822 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 14:45:34,823 INFO    : Begin to train particle06_06
+2023-11-22 14:45:34,836 INFO    : Begin to train particle06_07
+2023-11-22 14:45:34,846 INFO    : Begin to train particle06_08
+2023-11-22 15:12:22,324 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 15:12:22,324 INFO    : Begin to train particle06_09
+2023-11-22 15:12:22,341 INFO    : Begin to train particle06_10
+2023-11-22 15:12:22,352 INFO    : Begin to train particle06_11
+2023-11-22 15:44:41,184 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 15:44:41,184 INFO    : Begin to train particle06_12
+2023-11-22 15:44:41,202 INFO    : Begin to train particle06_13
+2023-11-22 15:44:41,214 INFO    : Begin to train particle06_14
+2023-11-22 16:15:36,019 INFO    : GPU_QUERY-Available GPUs are: [0,1,3], choose GPU#0 to use
+2023-11-22 16:15:36,020 INFO    : Begin to train particle06_15
+2023-11-22 16:15:36,035 INFO    : Begin to train particle06_16
+2023-11-22 16:15:36,046 INFO    : Begin to train particle06_17
+2023-11-22 16:52:34,467 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 16:52:34,468 INFO    : Begin to train particle06_18
+2023-11-22 16:52:34,482 INFO    : Begin to train particle06_19
+2023-11-22 17:19:04,538 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 17:19:24,663 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 17:19:44,729 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 17:20:04,855 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 17:20:24,963 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 17:20:45,048 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 17:21:05,143 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 17:21:25,227 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 17:21:45,308 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 17:22:05,395 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 17:22:25,510 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 17:22:45,605 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 17:23:05,690 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 17:23:15,700 INFO    : EVOLVE[6-gen]-Finish the evaluation
+2023-11-22 17:23:15,701 INFO    : EVOLVE[6-gen]-Finish the updating
+2023-11-22 17:23:15,748 INFO    : EVOLVE[7-gen]-Begin pso evolution
+2023-11-22 17:23:15,810 INFO    : EVOLVE[7-gen]-Finish pso evolution
+2023-11-22 17:23:15,810 INFO    : EVOLVE[7-gen]-Begin to evaluate the fitness
+2023-11-22 17:23:36,020 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 17:23:36,020 INFO    : Begin to train particle07_00
+2023-11-22 17:23:36,045 INFO    : Begin to train particle07_01
+2023-11-22 17:48:27,350 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 17:48:27,351 INFO    : Begin to train particle07_02
+2023-11-22 17:48:27,365 INFO    : Begin to train particle07_03
+2023-11-22 18:03:49,998 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 18:03:49,998 INFO    : Begin to train particle07_04
+2023-11-22 18:03:50,012 INFO    : Begin to train particle07_05
+2023-11-22 18:26:52,783 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 18:26:52,783 INFO    : Begin to train particle07_06
+2023-11-22 18:26:52,797 INFO    : Begin to train particle07_07
+2023-11-22 18:50:55,542 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 18:50:55,543 INFO    : Begin to train particle07_08
+2023-11-22 18:50:55,557 INFO    : Begin to train particle07_09
+2023-11-22 19:16:26,039 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 19:16:26,039 INFO    : Begin to train particle07_10
+2023-11-22 19:16:26,055 INFO    : Begin to train particle07_11
+2023-11-22 19:40:27,296 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 19:40:27,297 INFO    : Begin to train particle07_12
+2023-11-22 19:40:27,308 INFO    : Begin to train particle07_13
+2023-11-22 20:05:50,937 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 20:05:50,938 INFO    : Begin to train particle07_14
+2023-11-22 20:05:50,955 INFO    : Begin to train particle07_15
+2023-11-22 20:30:29,851 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 20:30:29,852 INFO    : Begin to train particle07_16
+2023-11-22 20:30:29,870 INFO    : Begin to train particle07_17
+2023-11-22 20:53:32,952 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 20:53:32,952 INFO    : Begin to train particle07_18
+2023-11-22 20:53:32,970 INFO    : Begin to train particle07_19
+2023-11-22 21:19:32,944 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 21:19:53,036 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 21:20:13,136 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 21:20:33,232 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 21:20:53,329 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 21:21:13,420 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 21:21:33,520 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 21:21:53,638 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 21:22:13,753 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 21:22:33,851 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 21:22:43,860 INFO    : EVOLVE[7-gen]-Finish the evaluation
+2023-11-22 21:22:43,861 INFO    : EVOLVE[7-gen]-Finish the updating
+2023-11-22 21:22:43,962 INFO    : EVOLVE[8-gen]-Begin pso evolution
+2023-11-22 21:22:44,064 INFO    : EVOLVE[8-gen]-Finish pso evolution
+2023-11-22 21:22:44,065 INFO    : EVOLVE[8-gen]-Begin to evaluate the fitness
+2023-11-22 21:23:04,295 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 21:23:04,295 INFO    : Begin to train particle08_00
+2023-11-22 21:23:04,313 INFO    : Begin to train particle08_01
+2023-11-22 21:51:16,571 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 21:51:16,572 INFO    : Begin to train particle08_02
+2023-11-22 21:51:16,584 INFO    : Begin to train particle08_03
+2023-11-22 22:07:01,033 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 22:07:01,034 INFO    : Begin to train particle08_04
+2023-11-22 22:07:01,045 INFO    : Begin to train particle08_05
+2023-11-22 22:29:02,533 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 22:29:02,534 INFO    : Begin to train particle08_06
+2023-11-22 22:29:02,549 INFO    : Begin to train particle08_07
+2023-11-22 22:52:24,772 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 22:52:24,773 INFO    : Begin to train particle08_08
+2023-11-22 22:52:24,787 INFO    : Begin to train particle08_09
+2023-11-22 23:18:22,378 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 23:18:22,379 INFO    : Begin to train particle08_10
+2023-11-22 23:18:22,393 INFO    : Begin to train particle08_11
+2023-11-22 23:46:51,759 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-22 23:46:51,759 INFO    : Begin to train particle08_12
+2023-11-22 23:46:51,769 INFO    : Begin to train particle08_13
+2023-11-23 00:12:45,613 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 00:12:45,614 INFO    : Begin to train particle08_14
+2023-11-23 00:12:45,630 INFO    : Begin to train particle08_15
+2023-11-23 00:39:47,173 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 00:39:47,173 INFO    : Begin to train particle08_16
+2023-11-23 00:39:47,188 INFO    : Begin to train particle08_17
+2023-11-23 01:05:42,600 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 01:05:42,600 INFO    : Begin to train particle08_18
+2023-11-23 01:05:42,615 INFO    : Begin to train particle08_19
+2023-11-23 01:21:23,173 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 01:21:43,261 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 01:22:03,370 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 01:22:23,461 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 01:22:43,557 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 01:23:03,642 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 01:23:23,773 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 01:23:43,900 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 01:24:03,985 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 01:24:24,098 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 01:24:34,108 INFO    : EVOLVE[8-gen]-Finish the evaluation
+2023-11-23 01:24:34,109 INFO    : EVOLVE[8-gen]-Finish the updating
+2023-11-23 01:24:34,189 INFO    : EVOLVE[9-gen]-Begin pso evolution
+2023-11-23 01:24:34,298 INFO    : EVOLVE[9-gen]-Finish pso evolution
+2023-11-23 01:24:34,298 INFO    : EVOLVE[9-gen]-Begin to evaluate the fitness
+2023-11-23 01:24:54,650 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 01:24:54,650 INFO    : Begin to train particle09_00
+2023-11-23 01:24:54,676 INFO    : Begin to train particle09_01
+2023-11-23 01:49:57,260 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 01:49:57,261 INFO    : Begin to train particle09_02
+2023-11-23 01:49:57,274 INFO    : Begin to train particle09_03
+2023-11-23 02:06:21,818 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 02:06:21,819 INFO    : Begin to train particle09_04
+2023-11-23 02:06:21,833 INFO    : Begin to train particle09_05
+2023-11-23 02:23:12,909 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 02:23:12,909 INFO    : Begin to train particle09_06
+2023-11-23 02:23:12,924 INFO    : Begin to train particle09_07
+2023-11-23 02:35:25,150 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 02:35:25,151 INFO    : Begin to train particle09_08
+2023-11-23 02:35:25,166 INFO    : Begin to train particle09_09
+2023-11-23 03:01:39,952 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 03:01:39,952 INFO    : Begin to train particle09_10
+2023-11-23 03:01:39,970 INFO    : Begin to train particle09_11
+2023-11-23 03:28:01,760 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 03:28:01,760 INFO    : Begin to train particle09_12
+2023-11-23 03:28:01,777 INFO    : Begin to train particle09_13
+2023-11-23 03:55:03,364 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 03:55:03,364 INFO    : Begin to train particle09_14
+2023-11-23 03:55:03,381 INFO    : Begin to train particle09_15
+2023-11-23 04:24:01,592 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 04:24:01,592 INFO    : Begin to train particle09_16
+2023-11-23 04:24:01,607 INFO    : Begin to train particle09_17
+2023-11-23 04:48:59,387 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 04:48:59,387 INFO    : Begin to train particle09_18
+2023-11-23 04:48:59,399 INFO    : Begin to train particle09_19
+2023-11-23 05:14:54,557 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 05:15:14,644 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 05:15:34,730 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 05:15:54,812 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 05:16:14,898 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 05:16:34,978 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 05:16:55,062 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 05:17:15,156 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 05:17:35,273 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 05:17:55,361 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 05:18:05,368 INFO    : EVOLVE[9-gen]-Finish the evaluation
+2023-11-23 05:18:05,369 INFO    : EVOLVE[9-gen]-Finish the updating
+2023-11-23 05:18:05,432 INFO    : EVOLVE[10-gen]-Begin pso evolution
+2023-11-23 05:18:05,519 INFO    : EVOLVE[10-gen]-Finish pso evolution
+2023-11-23 05:18:05,520 INFO    : EVOLVE[10-gen]-Begin to evaluate the fitness
+2023-11-23 05:18:25,871 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 05:18:25,871 INFO    : Begin to train particle10_00
+2023-11-23 05:18:25,885 INFO    : Begin to train particle10_01
+2023-11-23 05:43:07,602 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 05:43:07,602 INFO    : Begin to train particle10_02
+2023-11-23 05:43:07,616 INFO    : Begin to train particle10_03
+2023-11-23 05:50:02,758 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 05:50:02,759 INFO    : Begin to train particle10_04
+2023-11-23 05:50:02,774 INFO    : Begin to train particle10_05
+2023-11-23 06:14:09,646 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 06:14:09,646 INFO    : Begin to train particle10_06
+2023-11-23 06:14:09,657 INFO    : Begin to train particle10_07
+2023-11-23 06:39:21,556 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 06:39:21,557 INFO    : Begin to train particle10_08
+2023-11-23 06:39:21,575 INFO    : Begin to train particle10_09
+2023-11-23 07:05:03,326 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 07:05:03,326 INFO    : Begin to train particle10_10
+2023-11-23 07:05:03,341 INFO    : Begin to train particle10_11
+2023-11-23 07:34:45,062 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 07:34:45,062 INFO    : Begin to train particle10_12
+2023-11-23 07:34:45,078 INFO    : Begin to train particle10_13
+2023-11-23 07:54:17,706 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 07:54:17,707 INFO    : Begin to train particle10_14
+2023-11-23 07:54:17,720 INFO    : Begin to train particle10_15
+2023-11-23 08:20:53,803 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 08:20:53,804 INFO    : Begin to train particle10_16
+2023-11-23 08:20:53,819 INFO    : Begin to train particle10_17
+2023-11-23 08:49:26,767 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 08:49:26,768 INFO    : Begin to train particle10_18
+2023-11-23 08:49:26,783 INFO    : Begin to train particle10_19
+2023-11-23 09:17:46,764 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 09:18:06,852 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 09:18:26,967 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 09:18:47,093 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 09:19:07,178 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 09:19:27,309 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 09:19:47,396 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 09:20:07,497 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 09:20:27,582 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 09:20:47,667 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 09:20:57,669 INFO    : EVOLVE[10-gen]-Finish the evaluation
+2023-11-23 09:20:57,670 INFO    : EVOLVE[10-gen]-Finish the updating
+2023-11-23 09:20:57,712 INFO    : EVOLVE[11-gen]-Begin pso evolution
+2023-11-23 09:20:57,802 INFO    : EVOLVE[11-gen]-Finish pso evolution
+2023-11-23 09:20:57,802 INFO    : EVOLVE[11-gen]-Begin to evaluate the fitness
+2023-11-23 09:21:18,090 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 09:21:18,090 INFO    : Begin to train particle11_00
+2023-11-23 09:21:18,107 INFO    : Begin to train particle11_01
+2023-11-23 09:49:16,496 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 09:49:16,497 INFO    : Begin to train particle11_02
+2023-11-23 09:49:16,510 INFO    : Begin to train particle11_03
+2023-11-23 10:12:38,459 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 10:12:38,459 INFO    : Begin to train particle11_04
+2023-11-23 10:12:38,468 INFO    : Begin to train particle11_05
+2023-11-23 10:38:45,871 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 10:38:45,872 INFO    : Begin to train particle11_06
+2023-11-23 10:38:45,886 INFO    : Begin to train particle11_07
+2023-11-23 10:45:27,115 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 10:45:27,116 INFO    : Begin to train particle11_08
+2023-11-23 10:45:27,132 INFO    : Begin to train particle11_09
+2023-11-23 11:14:52,499 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 11:14:52,500 INFO    : Begin to train particle11_10
+2023-11-23 11:14:52,517 INFO    : Begin to train particle11_11
+2023-11-23 11:46:23,553 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 11:46:23,554 INFO    : Begin to train particle11_12
+2023-11-23 11:46:23,572 INFO    : Begin to train particle11_13
+2023-11-23 12:10:12,694 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 12:10:12,695 INFO    : Begin to train particle11_14
+2023-11-23 12:10:12,711 INFO    : Begin to train particle11_15
+2023-11-23 12:35:18,176 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 12:35:18,177 INFO    : Begin to train particle11_16
+2023-11-23 12:35:18,193 INFO    : Begin to train particle11_17
+2023-11-23 12:49:42,005 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 12:49:42,005 INFO    : Begin to train particle11_18
+2023-11-23 12:49:42,023 INFO    : Begin to train particle11_19
+2023-11-23 13:16:32,630 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 13:16:52,718 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 13:17:12,797 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 13:17:32,890 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 13:17:53,011 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 13:18:13,116 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 13:18:33,225 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 13:18:53,304 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 13:19:13,408 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 13:19:33,505 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 13:19:43,516 INFO    : EVOLVE[11-gen]-Finish the evaluation
+2023-11-23 13:19:43,517 INFO    : EVOLVE[11-gen]-Finish the updating
+2023-11-23 13:19:43,583 INFO    : EVOLVE[12-gen]-Begin pso evolution
+2023-11-23 13:19:43,682 INFO    : EVOLVE[12-gen]-Finish pso evolution
+2023-11-23 13:19:43,683 INFO    : EVOLVE[12-gen]-Begin to evaluate the fitness
+2023-11-23 13:20:04,052 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 13:20:04,052 INFO    : Begin to train particle12_00
+2023-11-23 13:20:04,075 INFO    : Begin to train particle12_01
+2023-11-23 13:44:31,390 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 13:44:31,391 INFO    : Begin to train particle12_02
+2023-11-23 13:44:31,398 INFO    : Begin to train particle12_03
+2023-11-23 14:10:38,264 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 14:10:38,265 INFO    : Begin to train particle12_04
+2023-11-23 14:10:38,282 INFO    : Begin to train particle12_05
+2023-11-23 14:38:20,451 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 14:38:20,451 INFO    : Begin to train particle12_06
+2023-11-23 14:38:20,464 INFO    : Begin to train particle12_07
+2023-11-23 14:57:55,065 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 14:57:55,066 INFO    : Begin to train particle12_08
+2023-11-23 14:57:55,084 INFO    : Begin to train particle12_09
+2023-11-23 15:16:41,109 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 15:16:41,110 INFO    : Begin to train particle12_10
+2023-11-23 15:16:41,125 INFO    : Begin to train particle12_11
+2023-11-23 15:44:33,123 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 15:44:33,123 INFO    : Begin to train particle12_12
+2023-11-23 15:44:33,140 INFO    : Begin to train particle12_13
+2023-11-23 16:03:13,001 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 16:03:13,002 INFO    : Begin to train particle12_14
+2023-11-23 16:03:13,016 INFO    : Begin to train particle12_15
+2023-11-23 16:31:25,257 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 16:31:25,257 INFO    : Begin to train particle12_16
+2023-11-23 16:31:25,273 INFO    : Begin to train particle12_17
+2023-11-23 16:58:01,455 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 16:58:01,456 INFO    : Begin to train particle12_18
+2023-11-23 16:58:01,474 INFO    : Begin to train particle12_19
+2023-11-23 17:16:51,617 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 17:17:11,756 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 17:17:31,842 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 17:17:51,994 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 17:18:12,073 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 17:18:32,168 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 17:18:52,302 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 17:19:12,393 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 17:19:32,489 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 17:19:52,577 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 17:20:02,588 INFO    : EVOLVE[12-gen]-Finish the evaluation
+2023-11-23 17:20:02,588 INFO    : EVOLVE[12-gen]-Finish the updating
+2023-11-23 17:20:02,760 INFO    : EVOLVE[13-gen]-Begin pso evolution
+2023-11-23 17:20:03,044 INFO    : EVOLVE[13-gen]-Finish pso evolution
+2023-11-23 17:20:03,044 INFO    : EVOLVE[13-gen]-Begin to evaluate the fitness
+2023-11-23 17:20:23,701 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 17:20:23,701 INFO    : Begin to train particle13_00
+2023-11-23 17:20:23,719 INFO    : Begin to train particle13_01
+2023-11-23 17:50:15,017 INFO    : GPU_QUERY-Available GPUs are: [1], choose GPU#1 to use
+2023-11-23 17:50:15,017 INFO    : Begin to train particle13_02
+2023-11-23 17:55:37,819 INFO    : GPU_QUERY-Available GPUs are: [1], choose GPU#1 to use
+2023-11-23 17:55:37,819 INFO    : Begin to train particle13_03
+2023-11-23 18:11:26,808 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 18:11:26,809 INFO    : Begin to train particle13_04
+2023-11-23 18:11:26,825 INFO    : Begin to train particle13_05
+2023-11-23 18:28:13,309 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 18:28:13,310 INFO    : Begin to train particle13_06
+2023-11-23 18:28:13,326 INFO    : Begin to train particle13_07
+2023-11-23 18:56:28,516 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 18:56:28,517 INFO    : Begin to train particle13_08
+2023-11-23 18:56:28,534 INFO    : Begin to train particle13_09
+2023-11-23 19:22:16,637 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 19:22:16,637 INFO    : Begin to train particle13_10
+2023-11-23 19:22:16,659 INFO    : Begin to train particle13_11
+2023-11-23 19:55:51,587 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 19:55:51,588 INFO    : Begin to train particle13_12
+2023-11-23 19:55:51,602 INFO    : Begin to train particle13_13
+2023-11-23 20:16:15,697 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 20:16:15,698 INFO    : Begin to train particle13_14
+2023-11-23 20:16:15,713 INFO    : Begin to train particle13_15
+2023-11-23 20:39:41,184 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 20:39:41,185 INFO    : Begin to train particle13_16
+2023-11-23 20:39:41,205 INFO    : Begin to train particle13_17
+2023-11-23 20:55:00,277 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 20:55:00,278 INFO    : Begin to train particle13_18
+2023-11-23 20:55:00,296 INFO    : Begin to train particle13_19
+2023-11-23 21:25:42,241 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 21:26:02,519 INFO    : GPU_QUERY-Available GPUs are: [1], choose GPU#1 to use
+2023-11-23 21:26:22,624 INFO    : GPU_QUERY-Available GPUs are: [1], choose GPU#1 to use
+2023-11-23 21:26:42,794 INFO    : GPU_QUERY-Available GPUs are: [1], choose GPU#1 to use
+2023-11-23 21:27:02,887 INFO    : GPU_QUERY-Available GPUs are: [1], choose GPU#1 to use
+2023-11-23 21:27:22,974 INFO    : GPU_QUERY-Available GPUs are: [1], choose GPU#1 to use
+2023-11-23 21:27:43,063 INFO    : GPU_QUERY-Available GPUs are: [1], choose GPU#1 to use
+2023-11-23 21:28:03,169 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 21:28:23,265 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 21:28:33,272 INFO    : EVOLVE[13-gen]-Finish the evaluation
+2023-11-23 21:28:33,273 INFO    : EVOLVE[13-gen]-Finish the updating
+2023-11-23 21:28:33,335 INFO    : EVOLVE[14-gen]-Begin pso evolution
+2023-11-23 21:28:33,481 INFO    : EVOLVE[14-gen]-Finish pso evolution
+2023-11-23 21:28:33,482 INFO    : EVOLVE[14-gen]-Begin to evaluate the fitness
+2023-11-23 21:28:54,097 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 21:28:54,098 INFO    : Begin to train particle14_00
+2023-11-23 21:28:54,116 INFO    : Begin to train particle14_01
+2023-11-23 21:57:31,326 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 21:57:31,326 INFO    : Begin to train particle14_02
+2023-11-23 21:57:31,338 INFO    : Begin to train particle14_03
+2023-11-23 22:18:42,882 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 22:18:42,882 INFO    : Begin to train particle14_04
+2023-11-23 22:18:42,897 INFO    : Begin to train particle14_05
+2023-11-23 22:48:30,882 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 22:48:30,882 INFO    : Begin to train particle14_06
+2023-11-23 22:48:30,900 INFO    : Begin to train particle14_07
+2023-11-23 23:15:16,696 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 23:15:16,696 INFO    : Begin to train particle14_08
+2023-11-23 23:15:16,715 INFO    : Begin to train particle14_09
+2023-11-23 23:49:19,894 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-23 23:49:19,895 INFO    : Begin to train particle14_10
+2023-11-23 23:49:19,907 INFO    : Begin to train particle14_11
+2023-11-24 00:20:54,486 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 00:20:54,486 INFO    : Begin to train particle14_12
+2023-11-24 00:20:54,505 INFO    : Begin to train particle14_13
+2023-11-24 00:38:57,146 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 00:38:57,147 INFO    : Begin to train particle14_14
+2023-11-24 00:38:57,165 INFO    : Begin to train particle14_15
+2023-11-24 01:04:13,874 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 01:04:13,875 INFO    : Begin to train particle14_16
+2023-11-24 01:04:13,893 INFO    : Begin to train particle14_17
+2023-11-24 01:33:21,322 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 01:33:21,323 INFO    : Begin to train particle14_18
+2023-11-24 01:33:21,343 INFO    : Begin to train particle14_19
+2023-11-24 02:04:14,586 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 02:04:34,682 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 02:04:54,789 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 02:05:14,878 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 02:05:34,965 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 02:05:55,048 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 02:06:15,131 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 02:06:35,217 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 02:06:55,304 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 02:07:15,393 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 02:07:25,404 INFO    : EVOLVE[14-gen]-Finish the evaluation
+2023-11-24 02:07:25,405 INFO    : EVOLVE[14-gen]-Finish the updating
+2023-11-24 02:07:25,472 INFO    : EVOLVE[15-gen]-Begin pso evolution
+2023-11-24 02:07:25,603 INFO    : EVOLVE[15-gen]-Finish pso evolution
+2023-11-24 02:07:25,603 INFO    : EVOLVE[15-gen]-Begin to evaluate the fitness
+2023-11-24 02:07:46,084 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 02:07:46,085 INFO    : Begin to train particle15_00
+2023-11-24 02:07:46,106 INFO    : Begin to train particle15_01
+2023-11-24 02:39:55,524 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 02:39:55,524 INFO    : Begin to train particle15_02
+2023-11-24 02:39:55,541 INFO    : Begin to train particle15_03
+2023-11-24 02:46:36,902 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 02:46:36,903 INFO    : Begin to train particle15_04
+2023-11-24 02:46:36,920 INFO    : Begin to train particle15_05
+2023-11-24 03:06:41,765 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 03:06:41,766 INFO    : Begin to train particle15_06
+2023-11-24 03:06:41,783 INFO    : Begin to train particle15_07
+2023-11-24 03:35:14,401 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 03:35:14,402 INFO    : Begin to train particle15_08
+2023-11-24 03:35:14,422 INFO    : Begin to train particle15_09
+2023-11-24 04:06:03,345 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 04:06:03,345 INFO    : Begin to train particle15_10
+2023-11-24 04:06:03,358 INFO    : Begin to train particle15_11
+2023-11-24 04:24:18,289 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 04:24:18,290 INFO    : Begin to train particle15_12
+2023-11-24 04:24:18,306 INFO    : Begin to train particle15_13
+2023-11-24 04:57:08,405 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 04:57:08,405 INFO    : Begin to train particle15_14
+2023-11-24 04:57:08,420 INFO    : Begin to train particle15_15
+2023-11-24 05:24:24,400 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 05:24:24,400 INFO    : Begin to train particle15_16
+2023-11-24 05:24:24,415 INFO    : Begin to train particle15_17
+2023-11-24 05:52:41,215 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 05:52:41,215 INFO    : Begin to train particle15_18
+2023-11-24 05:52:41,232 INFO    : Begin to train particle15_19
+2023-11-24 06:20:57,835 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 06:21:17,960 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 06:21:38,059 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 06:21:58,139 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 06:22:18,241 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 06:22:38,337 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 06:22:58,422 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 06:23:18,514 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 06:23:38,602 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 06:23:58,692 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 06:24:08,700 INFO    : EVOLVE[15-gen]-Finish the evaluation
+2023-11-24 06:24:08,701 INFO    : EVOLVE[15-gen]-Finish the updating
+2023-11-24 06:24:08,787 INFO    : EVOLVE[16-gen]-Begin pso evolution
+2023-11-24 06:24:08,918 INFO    : EVOLVE[16-gen]-Finish pso evolution
+2023-11-24 06:24:08,918 INFO    : EVOLVE[16-gen]-Begin to evaluate the fitness
+2023-11-24 06:24:29,396 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 06:24:29,397 INFO    : Begin to train particle16_00
+2023-11-24 06:24:29,415 INFO    : Begin to train particle16_01
+2023-11-24 06:54:53,820 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 06:54:53,821 INFO    : Begin to train particle16_02
+2023-11-24 06:54:53,836 INFO    : Begin to train particle16_03
+2023-11-24 07:13:24,035 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 07:13:24,036 INFO    : Begin to train particle16_04
+2023-11-24 07:13:24,053 INFO    : Begin to train particle16_05
+2023-11-24 07:40:42,880 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 07:40:42,880 INFO    : Begin to train particle16_06
+2023-11-24 07:40:42,898 INFO    : Begin to train particle16_07
+2023-11-24 08:11:29,570 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 08:11:29,571 INFO    : Begin to train particle16_08
+2023-11-24 08:11:29,588 INFO    : Begin to train particle16_09
+2023-11-24 08:42:07,189 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 08:42:07,190 INFO    : Begin to train particle16_10
+2023-11-24 08:42:07,208 INFO    : Begin to train particle16_11
+2023-11-24 09:11:54,324 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 09:11:54,324 INFO    : Begin to train particle16_12
+2023-11-24 09:11:54,338 INFO    : Begin to train particle16_13
+2023-11-24 09:25:54,875 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 09:25:54,875 INFO    : Begin to train particle16_14
+2023-11-24 09:25:54,891 INFO    : Begin to train particle16_15
+2023-11-24 09:55:25,295 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 09:55:25,296 INFO    : Begin to train particle16_16
+2023-11-24 09:55:25,314 INFO    : Begin to train particle16_17
+2023-11-24 10:13:47,354 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 10:13:47,355 INFO    : Begin to train particle16_18
+2023-11-24 10:13:47,373 INFO    : Begin to train particle16_19
+2023-11-24 10:44:27,327 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 10:44:47,417 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 10:45:07,526 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 10:45:27,620 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 10:45:47,758 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 10:46:07,855 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 10:46:27,948 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 10:46:48,033 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 10:47:08,153 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 10:47:28,257 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 10:47:38,268 INFO    : EVOLVE[16-gen]-Finish the evaluation
+2023-11-24 10:47:38,269 INFO    : EVOLVE[16-gen]-Finish the updating
+2023-11-24 10:47:38,384 INFO    : EVOLVE[17-gen]-Begin pso evolution
+2023-11-24 10:47:38,531 INFO    : EVOLVE[17-gen]-Finish pso evolution
+2023-11-24 10:47:38,531 INFO    : EVOLVE[17-gen]-Begin to evaluate the fitness
+2023-11-24 10:47:59,048 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 10:47:59,048 INFO    : Begin to train particle17_00
+2023-11-24 10:47:59,068 INFO    : Begin to train particle17_01
+2023-11-24 11:17:29,540 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 11:17:29,540 INFO    : Begin to train particle17_02
+2023-11-24 11:17:29,552 INFO    : Begin to train particle17_03
+2023-11-24 11:34:56,991 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 11:34:56,991 INFO    : Begin to train particle17_04
+2023-11-24 11:34:57,009 INFO    : Begin to train particle17_05
+2023-11-24 12:02:59,268 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 12:02:59,268 INFO    : Begin to train particle17_06
+2023-11-24 12:02:59,281 INFO    : Begin to train particle17_07
+2023-11-24 12:32:09,229 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 12:32:09,230 INFO    : Begin to train particle17_08
+2023-11-24 12:32:09,249 INFO    : Begin to train particle17_09
+2023-11-24 13:01:05,049 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 13:01:05,049 INFO    : Begin to train particle17_10
+2023-11-24 13:01:05,066 INFO    : Begin to train particle17_11
+2023-11-24 13:33:01,881 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 13:33:01,882 INFO    : Begin to train particle17_12
+2023-11-24 13:33:01,898 INFO    : Begin to train particle17_13
+2023-11-24 14:04:27,941 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 14:04:27,942 INFO    : Begin to train particle17_14
+2023-11-24 14:04:27,959 INFO    : Begin to train particle17_15
+2023-11-24 14:34:02,529 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 14:34:02,530 INFO    : Begin to train particle17_16
+2023-11-24 14:34:02,540 INFO    : Begin to train particle17_17
+2023-11-24 15:04:39,951 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 15:04:39,951 INFO    : Begin to train particle17_18
+2023-11-24 15:04:39,962 INFO    : Begin to train particle17_19
+2023-11-24 15:35:16,589 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 15:35:36,681 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 15:35:56,771 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 15:36:16,866 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 15:36:36,957 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 15:36:57,045 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 15:37:17,137 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 15:37:37,226 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 15:37:57,321 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 15:38:17,421 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 15:38:27,428 INFO    : EVOLVE[17-gen]-Finish the evaluation
+2023-11-24 15:38:27,429 INFO    : EVOLVE[17-gen]-Finish the updating
+2023-11-24 15:38:27,538 INFO    : EVOLVE[18-gen]-Begin pso evolution
+2023-11-24 15:38:27,750 INFO    : EVOLVE[18-gen]-Finish pso evolution
+2023-11-24 15:38:27,750 INFO    : EVOLVE[18-gen]-Begin to evaluate the fitness
+2023-11-24 15:38:48,352 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 15:38:48,352 INFO    : Begin to train particle18_00
+2023-11-24 15:38:48,371 INFO    : Begin to train particle18_01
+2023-11-24 16:08:09,243 INFO    : GPU_QUERY-Available GPUs are: [1], choose GPU#1 to use
+2023-11-24 16:08:09,243 INFO    : Begin to train particle18_02
+2023-11-24 16:13:09,911 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 16:13:09,911 INFO    : Begin to train particle18_03
+2023-11-24 16:13:09,925 INFO    : Begin to train particle18_04
+2023-11-24 16:40:57,079 INFO    : GPU_QUERY-Available GPUs are: [1], choose GPU#1 to use
+2023-11-24 16:40:57,080 INFO    : Begin to train particle18_05
+2023-11-24 16:55:10,805 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 16:55:10,805 INFO    : Begin to train particle18_06
+2023-11-24 16:55:10,823 INFO    : Begin to train particle18_07
+2023-11-24 17:07:55,871 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 17:07:55,872 INFO    : Begin to train particle18_08
+2023-11-24 17:07:55,893 INFO    : Begin to train particle18_09
+2023-11-24 17:43:32,370 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 17:43:32,370 INFO    : Begin to train particle18_10
+2023-11-24 17:43:32,386 INFO    : Begin to train particle18_11
+2023-11-24 18:14:21,170 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 18:14:21,171 INFO    : Begin to train particle18_12
+2023-11-24 18:14:21,188 INFO    : Begin to train particle18_13
+2023-11-24 18:31:39,089 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 18:31:39,090 INFO    : Begin to train particle18_14
+2023-11-24 18:31:39,112 INFO    : Begin to train particle18_15
+2023-11-24 19:02:09,950 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 19:02:09,951 INFO    : Begin to train particle18_16
+2023-11-24 19:02:09,965 INFO    : Begin to train particle18_17
+2023-11-24 19:27:19,427 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 19:27:19,427 INFO    : Begin to train particle18_18
+2023-11-24 19:27:19,444 INFO    : Begin to train particle18_19
+2023-11-24 19:58:42,707 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 19:59:02,806 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 19:59:22,914 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 19:59:43,004 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 20:00:03,127 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 20:00:23,217 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 20:00:43,329 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 20:01:03,425 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 20:01:23,515 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 20:01:33,526 INFO    : EVOLVE[18-gen]-Finish the evaluation
+2023-11-24 20:01:33,526 INFO    : EVOLVE[18-gen]-Finish the updating
+2023-11-24 20:01:33,593 INFO    : EVOLVE[19-gen]-Begin pso evolution
+2023-11-24 20:01:33,729 INFO    : EVOLVE[19-gen]-Finish pso evolution
+2023-11-24 20:01:33,729 INFO    : EVOLVE[19-gen]-Begin to evaluate the fitness
+2023-11-24 20:01:54,239 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 20:01:54,240 INFO    : Begin to train particle19_00
+2023-11-24 20:01:54,258 INFO    : Begin to train particle19_01
+2023-11-24 20:27:12,857 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 20:27:12,858 INFO    : Begin to train particle19_02
+2023-11-24 20:27:12,871 INFO    : Begin to train particle19_03
+2023-11-24 20:45:00,481 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 20:45:00,482 INFO    : Begin to train particle19_04
+2023-11-24 20:45:00,501 INFO    : Begin to train particle19_05
+2023-11-24 21:12:38,792 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 21:12:38,793 INFO    : Begin to train particle19_06
+2023-11-24 21:12:38,814 INFO    : Begin to train particle19_07
+2023-11-24 21:34:12,113 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 21:34:12,113 INFO    : Begin to train particle19_08
+2023-11-24 21:34:12,131 INFO    : Begin to train particle19_09
+2023-11-24 22:07:29,349 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 22:07:29,349 INFO    : Begin to train particle19_10
+2023-11-24 22:07:29,365 INFO    : Begin to train particle19_11
+2023-11-24 22:35:38,491 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 22:35:38,491 INFO    : Begin to train particle19_12
+2023-11-24 22:35:38,507 INFO    : Begin to train particle19_13
+2023-11-24 23:05:18,595 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 23:05:18,596 INFO    : Begin to train particle19_14
+2023-11-24 23:05:18,616 INFO    : Begin to train particle19_15
+2023-11-24 23:23:38,538 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 23:23:38,538 INFO    : Begin to train particle19_16
+2023-11-24 23:23:38,556 INFO    : Begin to train particle19_17
+2023-11-24 23:53:55,191 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-24 23:53:55,191 INFO    : Begin to train particle19_18
+2023-11-24 23:53:55,204 INFO    : Begin to train particle19_19
+2023-11-25 00:22:38,702 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-25 00:22:58,833 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-25 00:23:18,960 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-25 00:23:39,047 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-25 00:23:59,171 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-25 00:24:19,255 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-25 00:24:39,337 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-25 00:24:59,450 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-25 00:25:19,561 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-25 00:25:39,650 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-25 00:25:49,660 INFO    : EVOLVE[19-gen]-Finish the evaluation
+2023-11-25 00:25:49,661 INFO    : EVOLVE[19-gen]-Finish the updating
+2023-11-25 00:25:49,834 INFO    : Total Search Time: 279224.65 seconds
+2023-11-25 00:25:49,834 INFO    : 77h:33m:44s
+2023-11-25 00:26:10,085 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-25 00:26:10,085 INFO    : Begin to train particle-1_00
+2023-11-25 00:26:10,104 INFO    : Begin to train particle-1_01
+2023-11-26 02:01:18,158 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-26 02:01:18,159 INFO    : Begin to train particle-1_02
+2023-11-27 14:38:39,630 INFO    : GPU_QUERY-Available GPUs are: [0,1], choose GPU#0 to use
+2023-11-27 14:38:49,640 INFO    : Accuracy=[0.93270]
+2023-11-27 14:38:49,646 INFO    : Accuracy=[0.94680]
+2023-11-27 14:38:49,652 INFO    : Accuracy=[0.95440]

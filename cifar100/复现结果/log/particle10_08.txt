@@ -1,0 +1,57 @@
+[2023-11-15 01:17:44.205909]-Used GPU#0, worker name:Process-209[2832]
+[2023-11-15 01:17:44.210460]-#parameters:51249
+[2023-11-15 01:19:42.564894]-Train-Epoch:   1,  Loss: 4.3338, Acc:0.0380
+[2023-11-15 01:19:51.177991]-Validate-Epoch:   1,  Validate-Loss:4.1331, Acc:0.0548
+[2023-11-15 01:21:53.821195]-Train-Epoch:   2,  Loss: 3.9425, Acc:0.0798
+[2023-11-15 01:22:01.498752]-Validate-Epoch:   2,  Validate-Loss:3.8280, Acc:0.1028
+[2023-11-15 01:24:01.079951]-Train-Epoch:   3,  Loss: 3.7305, Acc:0.1139
+[2023-11-15 01:24:08.597179]-Validate-Epoch:   3,  Validate-Loss:3.6597, Acc:0.1412
+[2023-11-15 01:26:10.843042]-Train-Epoch:   4,  Loss: 3.5633, Acc:0.1413
+[2023-11-15 01:26:18.695201]-Validate-Epoch:   4,  Validate-Loss:3.4586, Acc:0.1592
+[2023-11-15 01:28:20.155837]-Train-Epoch:   5,  Loss: 3.4233, Acc:0.1678
+[2023-11-15 01:28:28.530240]-Validate-Epoch:   5,  Validate-Loss:3.2945, Acc:0.1822
+[2023-11-15 01:30:28.085860]-Train-Epoch:   6,  Loss: 3.2926, Acc:0.1904
+[2023-11-15 01:30:35.234344]-Validate-Epoch:   6,  Validate-Loss:3.1548, Acc:0.2176
+[2023-11-15 01:32:37.428995]-Train-Epoch:   7,  Loss: 3.1899, Acc:0.2100
+[2023-11-15 01:32:45.280469]-Validate-Epoch:   7,  Validate-Loss:3.0139, Acc:0.2360
+[2023-11-15 01:34:46.157019]-Train-Epoch:   8,  Loss: 3.0949, Acc:0.2258
+[2023-11-15 01:34:53.048890]-Validate-Epoch:   8,  Validate-Loss:3.0207, Acc:0.2398
+[2023-11-15 01:36:55.253564]-Train-Epoch:   9,  Loss: 3.0133, Acc:0.2400
+[2023-11-15 01:37:02.424008]-Validate-Epoch:   9,  Validate-Loss:2.9380, Acc:0.2588
+[2023-11-15 01:39:03.516774]-Train-Epoch:  10,  Loss: 2.9457, Acc:0.2549
+[2023-11-15 01:39:10.760992]-Validate-Epoch:  10,  Validate-Loss:2.7324, Acc:0.2912
+[2023-11-15 01:41:11.284185]-Train-Epoch:  11,  Loss: 2.8861, Acc:0.2648
+[2023-11-15 01:41:19.477251]-Validate-Epoch:  11,  Validate-Loss:2.7675, Acc:0.2850
+[2023-11-15 01:43:21.283159]-Train-Epoch:  12,  Loss: 2.8280, Acc:0.2793
+[2023-11-15 01:43:28.914608]-Validate-Epoch:  12,  Validate-Loss:2.7066, Acc:0.3024
+[2023-11-15 01:45:30.573425]-Train-Epoch:  13,  Loss: 2.7798, Acc:0.2896
+[2023-11-15 01:45:37.021206]-Validate-Epoch:  13,  Validate-Loss:2.6492, Acc:0.3134
+[2023-11-15 01:47:38.202465]-Train-Epoch:  14,  Loss: 2.7455, Acc:0.2963
+[2023-11-15 01:47:45.974688]-Validate-Epoch:  14,  Validate-Loss:2.5538, Acc:0.3260
+[2023-11-15 01:49:48.726087]-Train-Epoch:  15,  Loss: 2.7020, Acc:0.3049
+[2023-11-15 01:49:56.393008]-Validate-Epoch:  15,  Validate-Loss:2.5240, Acc:0.3270
+[2023-11-15 01:51:57.250672]-Train-Epoch:  16,  Loss: 2.6814, Acc:0.3095
+[2023-11-15 01:52:04.753820]-Validate-Epoch:  16,  Validate-Loss:2.4827, Acc:0.3392
+[2023-11-15 01:54:07.278498]-Train-Epoch:  17,  Loss: 2.6580, Acc:0.3149
+[2023-11-15 01:54:15.197387]-Validate-Epoch:  17,  Validate-Loss:2.4587, Acc:0.3498
+[2023-11-15 01:56:18.269157]-Train-Epoch:  18,  Loss: 2.6250, Acc:0.3207
+[2023-11-15 01:56:26.077958]-Validate-Epoch:  18,  Validate-Loss:2.4389, Acc:0.3526
+[2023-11-15 01:57:55.328904]-Train-Epoch:  19,  Loss: 2.6150, Acc:0.3231
+[2023-11-15 01:57:58.943740]-Validate-Epoch:  19,  Validate-Loss:2.4357, Acc:0.3540
+[2023-11-15 01:59:26.596829]-Train-Epoch:  20,  Loss: 2.6113, Acc:0.3223
+[2023-11-15 01:59:31.761820]-Validate-Epoch:  20,  Validate-Loss:2.4300, Acc:0.3574
+[2023-11-15 02:00:48.056151]-Train-Epoch:  21,  Loss: 2.6094, Acc:0.3245
+[2023-11-15 02:00:49.575336]-Validate-Epoch:  21,  Validate-Loss:2.4276, Acc:0.3562
+[2023-11-15 02:01:16.948346]-Train-Epoch:  22,  Loss: 2.6019, Acc:0.3260
+[2023-11-15 02:01:18.467366]-Validate-Epoch:  22,  Validate-Loss:2.4280, Acc:0.3560
+[2023-11-15 02:01:45.842086]-Train-Epoch:  23,  Loss: 2.6151, Acc:0.3227
+[2023-11-15 02:01:47.360603]-Validate-Epoch:  23,  Validate-Loss:2.4233, Acc:0.3598
+[2023-11-15 02:02:14.729280]-Train-Epoch:  24,  Loss: 2.6184, Acc:0.3209
+[2023-11-15 02:02:16.251900]-Validate-Epoch:  24,  Validate-Loss:2.4285, Acc:0.3548
+[2023-11-15 02:02:43.676827]-Train-Epoch:  25,  Loss: 2.6220, Acc:0.3199
+[2023-11-15 02:02:45.200082]-Validate-Epoch:  25,  Validate-Loss:2.4349, Acc:0.3578
+[2023-11-15 02:03:12.663801]-Train-Epoch:  26,  Loss: 2.6250, Acc:0.3207
+[2023-11-15 02:03:14.192695]-Validate-Epoch:  26,  Validate-Loss:2.4683, Acc:0.3480
+[2023-11-15 02:03:41.538544]-Train-Epoch:  27,  Loss: 2.6418, Acc:0.3160
+[2023-11-15 02:03:43.107852]-Validate-Epoch:  27,  Validate-Loss:2.4593, Acc:0.3560
+[2023-11-15 02:03:43.109126]-Finished-Acc:0.3598

@@ -1,0 +1,37 @@
+indi:00
+particle_a:9,10,11,13,14,8,9,44,36,14,15,13,12,15,15,12,13,9,9,14,8,9,8,9,8,9,13,10,14,15
+particle_c:1,3,7,10,4,22,17,45,60,28,33,29,43,40,62,23,61,23,54,50,59,55,4,42,20,9,50,48,48,41
+particle_c (bin):1.11.111.1010.00100.010110.0010001.00101101.000111100.0000011100.00000100001.000000011101.0000000101011.00000000101000.000000000111110.0000000000010111.00000000000111101.000000000000010111.0000000000000110110.00000000000000110010.000000000000000111011.0000000000000000110111.00000000000000000000100.000000000000000000101010.0000000000000000000010100.00000000000000000000001001.000000000000000000000110010.0000000000000000000000110000.00000000000000000000000110000.000000000000000000000000101001
+eval_acc:0.7752
+[conv0,in:10,out:10,input:conv_begin, ]
+[conv1,in:20,out:11,input:conv_begin, conv0, ]
+[conv2,in:31,out:12,input:conv_begin, conv0, conv1, ]
+[conv3,in:21,out:14,input:conv_begin, conv1, ]
+[conv4,in:11,out:15,input:conv1, ]
+[conv5,in:36,out:9,input:conv0, conv2, conv3, ]
+[conv6,in:20,out:10,input:conv1, conv5, ]
+[pool7,type:average,input:conv1, conv3, conv4, conv6, ]
+[pool8,type:max,input:conv2, conv3, conv4, conv5, ]
+[conv9,in:34,out:15,input:conv4, conv5, conv6, ]
+[conv10,in:30,out:16,input:conv4, conv9, ]
+[conv11,in:126,out:14,input:conv6, pool7, pool8, conv10, ]
+[conv12,in:90,out:13,input:conv6, pool8, conv10, conv11, ]
+[conv13,in:65,out:16,input:pool7, conv9, ]
+[conv14,in:108,out:16,input:pool8, conv9, conv10, conv11, conv12, ]
+[conv15,in:61,out:13,input:conv10, conv12, conv13, conv14, ]
+[conv16,in:72,out:14,input:conv10, conv11, conv12, conv13, conv15, ]
+[conv17,in:56,out:10,input:conv12, conv14, conv15, conv16, ]
+[conv18,in:56,out:10,input:conv12, conv13, conv15, conv16, ]
+[conv19,in:42,out:15,input:conv13, conv14, conv17, ]
+[conv20,in:68,out:9,input:conv14, conv15, conv16, conv18, conv19, ]
+[conv21,in:61,out:10,input:conv15, conv16, conv18, conv19, conv20, ]
+[conv22,in:15,out:9,input:conv19, ]
+[conv23,in:35,out:10,input:conv17, conv19, conv21, ]
+[conv24,in:25,out:9,input:conv19, conv21, ]
+[conv25,in:19,out:10,input:conv21, conv24, ]
+[conv26,in:28,out:14,input:conv20, conv21, conv24, ]
+[conv27,in:19,out:11,input:conv21, conv22, ]
+[conv28,in:19,out:15,input:conv22, conv23, ]
+[conv29,in:35,out:16,input:conv23, conv25, conv28, ]
+[final channels:41, final concatenate layers: ,conv29, conv26, conv27, ]
+----------------------------------------------------------------------------------------------------
